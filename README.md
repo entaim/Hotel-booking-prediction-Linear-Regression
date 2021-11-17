@@ -1,6 +1,6 @@
 # Booking.com Price Prediction in KSA Project 
 
-* Capstone
+* Project
 
 In order to predict hotel room pricing in the major cities of Saudi Arabia. This project went through the process of building a tool for the ministry of tourism to predict the accommodation prices in riyals given the number of beds, the rating score and number of reviews. 
 
