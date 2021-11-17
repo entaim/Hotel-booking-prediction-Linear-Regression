@@ -1,0 +1,900 @@
+hotel_name,location,price,room_type,beds,rating,rating_title,number_of_ratings,per_night,Log_number_of_ratings,Log_price,Size
+رواح للوحدات السكنية,Taif,190,One-Bedroom Apartment,2,7.5,Good,180,1,5.19295685089021,5.247024072160490,54
+Aloft Riyadh Hotel,Riyadh,475,"Breezy Room, Guest room, 1 King",1,8.2,Good,2947,1,7.988542982737700,6.163314804034640,32
+Nourth House ApartHotel,Al Qurayyat,200,Budget Twin Room,2,7.5,Good,264,1,5.575949103146320,5.298317366548040,35
+Dyar Al Hamra Hotel,Jeddah,340,Junior Suite King,1,7.7,Good,3923,1,8.274611946209550,5.8289456176102100,28
+Courtyard by Marriott Riyadh Northern Ring Road,Riyadh,525,"Standard, Guest room, 1 King",1,8.1,Good,1032,1,6.939253946041510,6.263398262591620,30
+جراند بلو للشقق الفندقية,Dammam,207,One-Bedroom Apartment,1,7.3,Good,114,1,4.736198448394500,5.332718793265370,29
+Golden Bujari Al-Dhahran - Hotel,Al Khobar,490,Deluxe Twin Room,2,8.4,Good,2315,1,7.747164966520340,6.194405391104670,40
+Best Western Plus Buraidah,Buraydah,330,Grand Non-Smoking 2 Twin Beds Room,2,8.0,Good,1552,1,7.347299700743160,5.799092654460530,38
+Al Hayatt Plus,Riyadh,210,Economy Quadruple Room,4,6.9,Very good,2300,1,7.7406644019172400,5.3471075307174700,100
+Courtyard by Marriott Riyadh Olaya,Riyadh,550,"Guest room, 2 Double",1,8.3,Good,2859,1,7.958227192322310,6.309918278226520,30
+Orchida Turaif Hotel 2,Ţurayf,125,Single Room with Bathroom,1,7.6,Good,32,1,3.4657359027997300,4.8283137373023000,28
+Rose Park,Riyadh,600,Standard Apartment,2,8.2,Good,139,1,4.9344739331306900,6.396929655216150,40
+Madinah Mövenpick Hotel,Madinah,626,One-Bedroom Suite,1,7.6,Good,3635,1,8.19836438996762,6.439350371100100,29
+Grand Hyatt Alkhobar Hotel and Residences,Al Khobar,750,King Room,1,8.7,Fabulous,2257,1,7.721791776817540,6.620073206530360,34
+Jabal Omar Marriott Hotel Makkah,Makkah,300,Superior Double Partial Haram View,2,7.8,Good,2671,1,7.890208213109960,5.703782474656200,55
+Courtyard Riyadh by Marriott Diplomatic Quarter,Riyadh,490,"Guest room, 2 Double",1,8.1,Good,2443,1,7.8009820712577400,6.194405391104670,30
+Gulanar Hotel,Unayzah,350,Deluxe King Room,1,8.5,Good,1343,1,7.202661196523240,5.857933154483460,30
+Le Meridien Riyadh,Riyadh,800,"Deluxe Room, Guest room, 2 Twin/Single Bed(s)",2,8.2,Good,764,1,6.638567789166520,6.684611727667930,33
+Novotel Riyadh Al Anoud,Riyadh,360,Superior Queen Room,1,7.2,Good,2943,1,7.987184748233470,5.886104031450160,28
+Centro Waha by Rotana,Riyadh,450,Standard Twin Room,2,7.5,Good,6614,1,8.796943893541740,6.1092475827643700,35
+Novotel Yanbu Albahr,Yanbu,480,Superior Double Room,1,8.0,Good,2591,1,7.85979918056211,6.173786103901940,33
+Mövenpick Hotel City Star Jeddah,Jeddah,440,Superior King Room,1,8.5,Good,1614,1,7.3864708488298900,6.0867747269123100,30
+Four Points by Sheraton Makkah Al Naseem,Makkah,149,King Room,1,8.5,Good,13389,1,9.50218875329738,5.003946305945460,29
+أجنحة سالين - للوحدات السكنية المفروشة,Hail,99,Double Room with Private Bathroom,1,5.9,Very good,53,1,3.970291913552120,4.59511985013459,35
+رمال الجزيره,Makkah,170,One-Bedroom Apartment,1,6.3,Very good,153,1,5.030437921392440,5.135798437050260,28
+MENA AL DIYAR 114,Riyadh,140,Studio,1,6.3,Very good,292,1,5.676753802268280,4.941642422609300,40
+Sharurah Plaza Hotel,Sharurah,200,One-Bedroom Apartment,2,8.7,Fabulous,294,1,5.683579767338680,5.298317366548040,46
+Coral Al Ahsa Hotel,Al Khars,350,Standard Double Room,2,7.1,Good,1108,1,7.010311867307230,5.857933154483460,30
+Ladera Hotel Tanomah,Tanomah,300,Studio,1,7.2,Good,163,1,5.093750200806760,5.703782474656200,30
+القصر المميز خميس مشيط,Khamis Mushayt,134,Deluxe Double Studio,1,7.9,Good,281,1,5.638354669333750,4.897839799950910,27
+ديوانية المسافر,Az Zulfi,79,One-Bedroom Apartment,2,8.0,Good,7,1,1.9459101490553100,4.3694478524670200,40
+Al Jahwah hotel by AL BALAD INN,Al Namas,250,Junior Suite,1,8.1,Good,399,1,5.988961416889860,5.521460917862250,38
+Al Andlus Palace 2 Hotel Kurban فندق قصر الاندلس 2 قربان,Makkah,180,Large Double Room,2,7.9,Good,58,1,4.060443010546420,5.19295685089021,43
+Qemam Al Safwah Grand Hotel,Rafha,135,Double Room,1,5.9,Very good,19,1,2.9444389791664400,4.90527477843843,30
+Rabigh Park Hotel,Rabigh,252,Standard Double Room,1,8.0,Good,530,1,6.272877006546170,5.529429087511420,29
+"Bay la sun , Luxury apartment with nice view",King Abdullah Economic City,950,Deluxe Family Suite with City View,2,8.5,Good,99,1,4.59511985013459,6.856461984594590,33
+منتجع جيدا بارك,Riyadh,400,Cottage with Garden View,3,8.7,Fabulous,361,1,5.8888779583328800,5.991464547107980,70
+Kyona Purple -Al Qurayat,Jeddah,130,Studio,2,8.4,Good,79,1,4.3694478524670200,4.867534450455580,50
+وحدات النخيل,Al Rass,80,One-Bedroom Apartment,1,7.7,Good,224,1,5.4116460518550400,4.382026634673880,28
+Milan Hotel,Makkah,285,One-Bedroom Apartment,1,7.6,Good,15,1,2.70805020110221,5.652489180268650,29
+Al Rawda Al Aqeeq Hotel,Madinah,130,Standard Twin Room,2,7.2,Good,3508,1,8.162801353492070,4.867534450455580,35
+"Naseem ,S Country نزل النسيم الريفيHouse",Al Ula,500,Quadruple Room with Shared Bathroom,4,8.1,Good,285,1,5.652489180268650,6.214608098422190,70
+Jawharat Al Amaken Hotel,Tayma,230,One-Bedroom Apartment,1,8.7,Fabulous,160,1,5.075173815233830,5.438079308923200,30
+Crystal Blue Hotel,Rabigh,350,Deluxe Studio,1,7.1,Good,141,1,4.948759890378170,5.857933154483460,38
+manzel aram 105,Riyadh,108,One-Bedroom Apartment,1,5.7,Very good,702,1,6.553933404025810,4.68213122712422,34
+فندق جولدن العرين,Abha,150,Budget Double Room,1,9.9,Exceptional,127,1,4.844187086458590,5.0106352940962600,30
+فندق العروبة,Riyadh,89,King Studio,1,6.1,Very good,2409,1,7.786967002614870,4.48863636973214,28
+Faifa Hotel,Fayfa,375,Double Room,1,7.0,Good,302,1,5.71042701737487,5.926926025970410,36
+العييري للوحدات المفروشة الباحة3,Al Baha,110,Double Room with Private Bathroom,2,3.7,Very good,72,1,4.276666119016060,4.700480365792420,40
+Anwar Al Zahraa Hotel,Madinah,100,Double Room,2,7.3,Good,260,1,5.560681631015530,4.605170185988090,45
+OYO 242 Al Ahlam Resort Al Leith,Al Lith,387,Standard Studio Double,1,6.5,Very good,333,1,5.808142489980440,5.958424693029780,30
+فندق سوار,Madinah,145,Small Twin Room,2,8.6,Fabulous,22,1,3.091042453358320,4.976733742420570,42
+Golden Dakhil,Madinah,100,Economy Double Room,1,7.3,Good,420,1,6.040254711277410,4.605170185988090,30
+الوادي للوحدات السكنية,Riyadh,200,Deluxe Twin Room,2,8.5,Good,149,1,5.003946305945460,5.298317366548040,34
+عماره السيف,Rabigh,122,One-Bedroom Apartment,3,7.0,Good,76,1,4.330733340286330,4.804021044733260,50
+"Park Inn by Radisson, Riyadh",Riyadh,352,Standard Room,1,8.2,Good,1373,1,7.224753405767970,5.863631175598100,30
+Taleen AlAqiq hotel apartments,Riyadh,230,One-Bedroom Apartment,2,6.8,Very good,1206,1,7.095064377287130,5.438079308923200,39
+REVERA RESORT,Madinah,850,Studio with Garden View,3,8.3,Good,47,1,3.8501476017100600,6.745236349484360,60
+Raghdan Village,Al Baha,297,One-Bedroom Chalet,2,5.9,Very good,410,1,6.016157159698350,5.6937321388027,33
+فندق ضيوف النباريس,Jeddah,85,Studio,1,5.4,Very good,673,1,6.511745329644730,4.442651256490320,43
+فندق صدفة,Riyadh,490,Deluxe King Room,1,8.8,Fabulous,83,1,4.418840607796600,6.194405391104670,40
+Ramada Encore Al Khobar Olaya,Riyadh,319,Queen Room - Non-Smoking,1,7.5,Good,2776,1,7.9287663216267000,5.765191102784840,35
+Staytion First - Al Zahra,Jeddah,170,Studio Apartment,1,8.8,Fabulous,972,1,6.879355804460440,5.135798437050260,50
+شاليهات سويت هوم الدرب الكدره,Ad Darb,450,One-Bedroom Apartment,1,9.1,Superb,28,1,3.332204510175200,6.1092475827643700,29
+وفود للوحدات السكنية المفروشة,Rafha,129,King Room,1,8.1,Good,65,1,4.174387269895640,4.859812404361670,33
+القصر للاجنحة الفندقية (احد رفيده),Khamis Mushayt,340,Deluxe Queen Suite,4,8.6,Fabulous,99,1,4.59511985013459,5.8289456176102100,60
+العييري للوحات المفروشة جدة 5,Jeddah,86,Double Room with Private Bathroom,3,5.9,Very good,16,1,2.772588722239780,4.454347296253510,48
+بست ون للوحدات السكنيه المفروشه,Al Duwadimi,270,One-Bedroom Apartment,1,8.6,Fabulous,22,1,3.091042453358320,5.598421958998380,30
+شاليهات ارنيكا,Taif,300,Two-Bedroom Chalet,4,8.2,Good,71,1,4.2626798770413200,5.703782474656200,100
+Touq Balad,Jeddah,175,Budget Double Room,1,8.4,Good,504,1,6.222576268071370,5.1647859739235100,33
+توجاردن الحرمين,Jeddah,200,Executive Suite,2,9.0,Superb,85,1,4.442651256490320,5.298317366548040,45
+Address Sharurah Hotel,Sharurah,200,Standard Double Room,2,8.1,Good,97,1,4.574710978503380,5.298317366548040,45
+The first diamond الماسيه الاولي,Jeddah,225,Economy Double Room,1,8.3,Good,52,1,3.9512437185814300,5.41610040220442,32
+Al Madinah Concorde Hotel,Madinah,137,Deluxe King Room,1,6.8,Very good,703,1,6.555356891810670,4.919980925828130,28
+Marina House,Riyadh,86,Budget Double Room,2,5.0,Very good,216,1,5.375278407684170,4.454347296253510,38
+THORA ALAMJAD FURNISHED APARTMENTS (ذرى الامجاد للوحدات السكنية المفروشة (الراحة بلازا سابقا,Sharurah,119,Family Studio,1,7.2,Good,235,1,5.459585514144160,4.77912349311153,40
+Durat Al Ruwmansiya 3,Tabuk,140,Deluxe Apartment,2,6.3,Very good,863,1,6.760414691083430,4.941642422609300,44
+Shahad Al Taif,Taif,144,Studio Apartment,1,7.4,Good,2439,1,7.79934339821592,4.969813299576000,35
+Business Inn Tahlia Hotel,Riyadh,237,Business King Room,1,6.6,Very good,1023,1,6.930494765951630,5.4680601411351300,38
+Manazeli AlKhozama منازلي الخزامى,Madinah,150,Economy Double Room,1,7.4,Good,5,1,1.6094379124341000,5.0106352940962600,32
+reef101,Riyadh,150,Studio,1,6.1,Very good,200,1,5.298317366548040,5.0106352940962600,40
+فندق ارتال طيبة Artal Taiba Hotel,Madinah,83,Budget Triple Room,3,6.6,Very good,1117,1,7.018401799069200,4.418840607796600,30
+""" لاڤيلا ""منتجع وشاليهات لا فيلا العرسان",Riyadh,250,Deluxe Double Room with Balcony,1,7.3,Good,86,1,4.454347296253510,5.521460917862250,34
+شاطئ الحياة للأجنحة الفندقية,Jeddah,187,Studio,1,8.1,Good,380,1,5.940171252720430,5.231108616854590,35
+Mirage Al Salam Hotel,Madinah,125,Basic Triple Room,3,7.2,Good,2530,1,7.835974581721570,4.8283137373023000,40
+ريحانة الورد,Abha ,88,Budget Double Room,1,6.9,Very good,28,1,3.332204510175200,4.477336814478210,28
+Rihan Tibah Furnished Units,Madinah,99,Triple Room with Private Bathroom,3,5.4,Very good,36,1,3.58351893845611,4.59511985013459,50
+لوريت للشقق والاجنحة الفندقية,Jeddah,225,Junior Suite,1,0.0,Very good,0,1,-inf,5.41610040220442,26
+مزرعة بإطلالة على الجبل,Madain,1603,Family Room,8,8.5,Good,15,1,2.70805020110221,7.3796321526095500,150
+Al Rose Al Motamaiza Furnished Apartment,Jeddah,185,One-Bedroom Apartment,1,7.3,Good,485,1,6.184148890937480,5.220355825078320,28
+ملفا للأجنحة الفندقية- فرع حي الموسى,Bishah,180,One-Bedroom Apartment,1,8.0,Good,144,1,4.969813299576000,5.19295685089021,28
+Al Muhaidb Residence Al Khobar,Riyadh,255,Double Room,1,6.8,Very good,1202,1,7.091742115095150,5.541263545158430,28
+Jamjoom Hotel - فندق الجمجوم,Jeddah,131,Deluxe King Room,1,6.2,Very good,724,1,6.584791392385720,4.875197323201150,28
+Diamond Elite hotel,Jeddah,225,Twin Room,2,8.4,Good,1319,1,7.1846291527173100,5.41610040220442,35
+Almakan Suites 111,Riyadh ,61,Studio Apartment,1,4.0,Very good,830,1,6.721425700790640,4.110873864173310,29
+Swiss EYE,Jeddah,219,Deluxe Twin Room,2,7.6,Good,1073,1,6.9782137426307000,5.389071729816500,35
+Al Hamra Palace ApartHotel Falastin,Jeddah,170,Deluxe Studio,1,6.7,Very good,1529,1,7.332369205929060,5.135798437050260,30
+برج سما للشقق المفروشة,Jeddah,102,Studio,2,6.3,Very good,768,1,6.643789733147670,4.624972813284270,37
+Ebreez Hotel,Jeddah,200,Deluxe King Room,1,7.5,Good,2248,1,7.717796211013580,5.298317366548040,30
+Hawadah Hotel,Jeddah,230,Standard Double Room,1,7.3,Good,461,1,6.133398042996650,5.438079308923200,29
+شدون للوحدات السكنية,Buraydah,144,Double Room - Disability Access,1,6.9,Very good,171,1,5.14166355650266,4.969813299576000,27
+Durrat Hira ApartHotel,Jeddah,163,Studio,1,8.1,Good,1067,1,6.9726062513017500,5.093750200806760,34
+منتجع قرية الريف الفندقية,Taif,315,One-Bedroom Chalet,1,7.8,Good,95,1,4.553876891600540,5.752572638825630,100
+منتجع قرية الفقرة,Madinah,1400,Two-Bedroom Villa,4,8.6,Fabulous,8,1,2.0794415416798400,7.24422751560335,28
+فندق رحابة Rahabah Hotel,Makkah,158,Budget Double Room,1,7.3,Good,14,1,2.6390573296152600,5.062595033026970,28
+Acacia Aparthotel,Jeddah,144,Economy Double Room,1,7.4,Good,1387,1,7.234898420314830,4.969813299576000,35
+Danat Park Hotel,Yanbu,140,Budget Double Room,1,6.5,Very good,563,1,6.333279628139690,4.941642422609300,29
+فندق بانوراما الخبر-Panorama ALkohbar Hotel,Riyadh,400,Duplex Studio,1,6.6,Very good,89,1,4.48863636973214,5.991464547107980,35
+Rose Diamond Hotel,Madinah,100,Standard Quadruple Room,3,6.7,Very good,318,1,5.762051382780180,4.605170185988090,50
+Makarim Palm Hotel,Rabigh,160,One-Bedroom Apartment,1,6.8,Very good,311,1,5.739792912179230,5.075173815233830,37
+Luxury apartment in KAEC شقة فاخرة ابراج الشاطئ مدينة الملك عبدالله الاقتصادية - اطلالة علي المدينة,King Abdullah Economic City,1259,Apartment,5,9.4,Superb,7,1,1.9459101490553100,7.138073034044350,100
+مينا بلازا الطائف Mena Plaza Taif,Taif,140,Standard King Room,1,5.8,Very good,1112,1,7.013915474810530,4.941642422609300,60
+Al Qibla Hotel,Madinah,285,Twin Room - Non-Smoking,2,6.3,Very good,1690,1,7.432483807917120,5.652489180268650,28
+Orchida Al Hamra,Riyadh ,111,King Studio,1,5.8,Very good,15,1,2.70805020110221,4.709530201312330,28
+فندق النهضة Al Nahda Hotel,Jeddah,111,Studio,1,6.3,Very good,340,1,5.8289456176102100,4.709530201312330,40
+رحاب الضيافة,Dammam,230,Two-Bedroom Apartment,6,0.0,Very good,0,1,-inf,5.438079308923200,80
+Baisan Suites Al Jubail,Al Jubail,210,One-Bedroom Apartment,1,7.0,Good,607,1,6.408528791059500,5.3471075307174700,28
+Afaq Jeddah,Jeddah,162,Budget Double Room,1,6.8,Very good,2020,1,7.61085279039525,5.087596335232380,28
+Naviti Warwick Al Khobar,Riyadh ,309,Deluxe Double Room,1,7.6,Good,3543,1,8.172729104865470,5.733341276897750,28
+شاليه وئام,Umm as Salam,650,One-Bedroom Chalet,2,0.0,Very good,0,1,-inf,6.476972362889680,28
+Almakan Hotel 103,Riyadh,144,One-Bedroom Apartment,1,6.0,Very good,1789,1,7.489412083508720,4.969813299576000,35
+Bhadur Resort Jeddah,Jeddah,600,Standard  Room,1,5.7,Very good,854,1,6.74993119378857,6.396929655216150,29
+Quartz Executive كوارتز التنفيذية,Abha,322,Superior Suite,2,8.5,Good,87,1,4.465908118654580,5.7745515455444100,35
+رواسل,Jeddah,168,Superior Twin Room,2,8.1,Good,79,1,4.3694478524670200,5.123963979403260,30
+Almuhaidb Residence Al Jubail,Al Jubail,250,Standard King Room,1,7.7,Good,1596,1,7.3752557780097500,5.521460917862250,37
+Nuzul mena 109,Riyadh,126,Studio Apartment,2,6.2,Very good,970,1,6.877296071497430,4.836281906951480,28
+فندق العرب إن,Riyadh,75,Deluxe Double Room,2,7.3,Good,33,1,3.4965075614664800,4.31748811353631,28
+Royal El Naser Hotel,Riyadh,150,Deluxe Double Room,1,5.3,Very good,375,1,5.926926025970410,5.0106352940962600,28
+Karam Hiraa Hotel Apartments - كرم حراء للشقق الفندقية,Jeddah,229,Deluxe Double Studio,2,8.0,Good,864,1,6.761572768804060,5.43372200355424,28
+Crown Rose Hotel,Riyadh,360,Superior Twin Room,2,7.8,Good,1139,1,7.037905963447180,5.886104031450160,40
+دار اجواء 2,Riyadh,179,One-Bedroom Apartment,1,0.0,Very good,0,1,-inf,5.187385805840760,29
+Genac Hotel Yanbu,Yanbu,100,Deluxe Double Room,2,7.1,Good,444,1,6.095824562432230,4.605170185988090,40
+العييري للوحدات المفروشة جدة 6,Jeddah,160,Two-Bedroom Apartment,2,5.1,Very good,13,1,2.5649493574615400,5.075173815233830,37
+شاليهات سحاب,Buraydah ,1150,Two-Bedroom Chalet,3,9.1,Superb,14,1,2.6390573296152600,7.047517221357300,50
+شقق بيات العالية بوادي بن هشبل Bayat Al aliah Apartments in Wadi bin Hashbal,Bin Hashbal,130,One-Bedroom Apartment,1,8.9,Fabulous,21,1,3.044522437723420,4.867534450455580,30
+سرو للوحدات السكنية,Al Namas,200,One-Bedroom Villa,1,7.6,Good,425,1,6.052089168924420,5.298317366548040,28
+الحماد للشقق الفندقية - فرع قريش,Jeddah,120,One-Bedroom Apartment,1,7.2,Good,1836,1,7.515344571180440,4.787491742782050,28
+Loalat Al Rowdah Family,Jeddah,210,Apartment,2,7.8,Good,466,1,6.144185634125650,5.3471075307174700,28
+شقق عمار - شقق خاصة,Al Ula,217,Budget Double Room,2,8.0,Good,67,1,4.204692619390970,5.37989735354046,28
+العييرى للوحات المفروشة جدة4,Jeddah,85,Twin Room with Bathroom,2,3.8,Very good,20,1,2.995732273553990,4.442651256490320,35
+Mena Andalusia Riyadh,Riyadh,213,Standard Room Twin,1,7.2,Good,3261,1,8.089789175789320,5.3612921657094300,29
+Gardino Hotel & Residence - فندق جاردينو,Riyadh,698,Deluxe Room,1,8.7,Fabulous,365,1,5.8998973535824900,6.548219102762370,35
+Al Andalus Palace 1 Hotel Haram فندق قصر الاندلس 1 الحرم,Madinah,170,Deluxe King Room,1,6.4,Very good,3257,1,8.088561805276230,5.135798437050260,30
+Almasem Luxury Hotel suite 6,Riyadh,219,Economy Twin Room,2,7.6,Good,495,1,6.20455776256869,5.389071729816500,37
+Golden Abha,Abha,74,Deluxe King Room,1,5.5,Very good,1216,1,7.103322062526110,4.30406509320417,28
+Iris Boutique Taif Heart,Taif,297,Deluxe Queen Room,1,8.6,Fabulous,1354,1,7.21081845347222,5.6937321388027,40
+Super 8 Al Riyadh,Riyadh,340,King Room - Non-Smoking,1,6.9,Very good,708,1,6.56244409369372,5.8289456176102100,28
+رانا الخليجية - rana alkhaleejiah,Riyadh,230,One-Bedroom Apartment,1,7.7,Good,17,1,2.833213344056220,5.438079308923200,28
+إبريز الحجاز Amarena سابقا,Jeddah,111,Economy Double Room,1,7.0,Good,167,1,5.117993812416760,4.709530201312330,35
+دارك للشقق المفروشة,Al Ula,300,Two-Bedroom Apartment,3,7.2,Good,179,1,5.187385805840760,5.703782474656200,50
+Raihat Al Bustan Furnished Units,Haradh,180,Budget Double Room,2,6.4,Very good,8,1,2.0794415416798400,5.19295685089021,35
+شقق درة الجوف,Riyadh,120,Large Double Room,1,6.8,Very good,35,1,3.5553480614894100,4.787491742782050,30
+Rawabi Al Khobar Hotel,Riyadh,275,Standard Double Room,1,7.4,Good,369,1,5.910796644040530,5.616771097666570,37
+Orchida Al Hamra,Riyadh,111,King Studio,1,5.8,Very good,15,1,2.70805020110221,4.709530201312330,28
+عابر خميس مشيط,Khamis Mushayt,251,Superior Double Room,1,8.3,Good,402,1,5.996452088619020,5.5254529391317800,33
+شاليهات القمر,Taif,470,Two-Bedroom Chalet,3,9.2,Superb,13,1,2.5649493574615400,6.152732694704100,300
+Areen ApartHotel,Riyadh,171,Economy Double Room,1,7.4,Good,521,1,6.255750041753370,5.14166355650266,28
+Al Eairy Apartment-Alqaseem 1,Buraydah,99,Twin Room,2,4.8,Very good,352,1,5.863631175598100,4.59511985013459,28
+Luxury apartment in KAEC شقة فاخرة ابراج الشاطئ مدينة الملك عبدالله الاقتصادية - اطلالة علي المدينة,King Abdullah Economic,1259,Apartment,5,9.4,Superb,7,1,1.9459101490553100,7.138073034044350,90
+ريف عسير للشقق المفروشة,Khamis Mushayt,125,Deluxe Double Room,1,7.5,Good,34,1,3.5263605246161600,4.8283137373023000,29
+Views Hotel & Residences,King Abdullah Economic,764,Studio with Courtyard View,1,8.3,Good,7034,1,8.858510813033930,6.638567789166520,35
+Swiss International Taba Alsalam,Madinah,260,Double Room with Private Bathroom,1,7.7,Good,4439,1,8.398184404834040,5.560681631015530,30
+Fakher Yanbu Hotel,Yanbu ,98,Studio,1,7.0,Good,1571,1,7.359467638255620,4.584967478670570,37
+Le Park Shaqra,Shaqra ,340,Superior Suite,1,9.0,Superb,114,1,4.736198448394500,5.8289456176102100,28
+Orchida Turaif Hotel 1,Turayf,125,Twin Room,2,6.0,Very good,23,1,3.1354942159291500,4.8283137373023000,40
+Diamond Suites,Madinah,156,Economy Double Room,1,7.1,Good,144,1,4.969813299576000,5.049856007249540,28
+شاليهات نيو فيو الفندقيه,Taif,675,One-Bedroom Chalet,2,0.0,Very good,0,1,-inf,6.51471269087253,140
+Jinan Al Nakhil Apartment Hotel,Al Muzahimiyah,193,Superior Suite,1,8.6,Fabulous,117,1,4.762173934797760,5.262690188904890,28
+شاليه ودق,Buraydah,400,Double or Twin Room,2,0.0,Very good,0,1,-inf,5.991464547107980,28
+The District Hotel Najran,Najran,421,Executive Suite with City View,1,8.4,Good,993,1,6.900730664045170,6.042632833682380,35
+Asia Hotel,Riyadh,115,Standard Studio,1,5.5,Very good,304,1,5.717027701406220,4.74493212836325,29
+سفن سيز 2 للوحدات السكينه,Jeddah,128,Studio,1,5.5,Very good,236,1,5.4638318050256100,4.852030263919620,35
+Freesia Hotel,Jeddah,234,Deluxe King Studio,1,7.8,Good,59,1,4.07753744390572,5.455321115357700,30
+Pearl of Vision Hotel,Jeddah,153,Standard Double Room,1,8.5,Good,134,1,4.897839799950910,5.030437921392440,37
+Pullman Zamzam Madina,Madinah,280,Classic Twin Room with Patio View,2,8.1,Good,12774,1,9.455167134121540,5.634789603169250,39
+Al Eairy Apartments - Al Taif,Taif,95,Double or Twin Room,1,5.3,Very good,865,1,6.762729506931880,4.553876891600540,50
+Danar Hotel Apartments 5,Riyadh,249,Double Room,1,6.5,Very good,724,1,6.584791392385720,5.517452896464710,28
+شقق فندقية سبيل,Khamis Mushayt,85,Deluxe Queen Room,1,6.4,Very good,138,1,4.927253685157210,4.442651256490320,28
+Raoum Inn - Hawtah Bani Tamim,Al Hillah,165,One-Bedroom Suite,1,6.4,Very good,126,1,4.836281906951480,5.10594547390058,35
+Safa Albawadi,Jeddah,130,Twin Room,2,7.6,Good,773,1,6.650279048587420,4.867534450455580,29
+Iwaa Alkharj Apartments,Riyadh,160,Deluxe Queen Room,1,7.8,Good,408,1,6.0112671744041600,5.075173815233830,35
+Lavana Furnished Apartments Salam,Jeddah,152,Studio,1,7.9,Good,796,1,6.679599185844380,5.0238805208462800,28
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic,705,Deluxe Double Room with City View,1,8.2,Good,9052,1,9.110741006753430,6.558197802812270,28
+Vision of Onaizah Furnished Units,Unayzah,153,Twin Room,2,8.2,Good,830,1,6.721425700790640,5.030437921392440,35
+Rafa Homes,Riyadh,318,One-Bedroom Apartment,1,7.5,Good,915,1,6.818924065275520,5.762051382780180,29
+فندق لافندر,Taif,229,Studio Apartment,1,8.3,Good,633,1,6.450470422144180,5.43372200355424,35
+Dar Al Naem Hotel,Madinah,150,Standard Twin Room,2,6.4,Very good,1373,1,7.224753405767970,5.0106352940962600,30
+Executives Hotel - Azizia,Riyadh,279,Standard Double Room,1,8.0,Good,2709,1,7.904334842085100,5.631211781821370,37
+فندق المحمل العصري,Sharurah Show on map,150,Double Room,1,0.0,Very good,0,1,-inf,5.0106352940962600,28
+Baylasun Life,King Abdullah Economic City,760,One-Bedroom Apartment,3,8.7,Fabulous,72,1,4.276666119016060,6.633318433280380,40
+Gardens View,Taif,216,Standard Studio,1,7.3,Good,318,1,5.762051382780180,5.375278407684170,28
+Hotel Qal'aat AlKhafji,AlKhafji,269,Deluxe Double Room,2,7.0,Good,6,1,1.791759469228060,5.594711379601840,28
+Al Muhaidb Residence Al Takhassusi,Riyadh,250,Club Double Room,1,6.9,Very good,1092,1,6.9957661563048500,5.521460917862250,28
+Al Hayatt Plus,Madinah,175,Economy Double Room,2,6.9,Very good,2304,1,7.742402021815780,5.1647859739235100,35
+Al Eairy Furnished Apartments- Jeddah 2,Jeddah,100,Small Double Room,1,5.2,Very good,879,1,6.778784897685180,4.605170185988090,29
+اوج للأجنحة الفندقية,Jazan,465,Standard Studio,1,8.9,Fabulous,40,1,3.6888794541139400,6.142037405587360,35
+Ramada by Wyndham Dammam Khaleej Road,Dammam,210,Queen Room - Smoking,1,6.9,Very good,4808,1,8.478036476215040,5.3471075307174700,30
+سويت ان العلا للشقق المفروشة الخاصة Sweet In alula Apartments and organizing tours,Al Ula,620,Three-Bedroom Apartment,8,7.6,Good,163,1,5.093750200806760,6.429719478039140,37
+La fontaine Opal,Jeddah,280,Standard Double or Twin Room,1,8.2,Good,299,1,5.700443573390690,5.634789603169250,28
+شالية مارينا,Al Muwayh,1000,Two-Bedroom Chalet,3,0.0,Very good,0,1,-inf,6.907755278982140,55
+استراحة الخير,Riyadh,240,Two-Bedroom Chalet,2,0.0,Very good,0,1,-inf,5.480638923341990,48
+دار العلاية,Sabt Alalayah,162,One-Bedroom Apartment,1,6.2,Very good,68,1,4.219507705176110,5.087596335232380,28
+OYO 114 Dome Hotel Al Sulaimaniah,Riyadh,270,Two Bedroom Apartment,3,7.2,Good,2839,1,7.951207156472970,5.598421958998380,35
+Ghoson Al Zaitoun Furnished Units,Sakakah,130,Double Room,1,7.1,Good,51,1,3.9318256327243300,4.867534450455580,29
+Lamar Al Bawadi Hotel,Jeddah,285,Executive Suite,1,8.0,Good,1664,1,7.416979621381150,5.652489180268650,35
+Home Inn Hotel Suites,Riyadh ,210,Junior Suite,2,8.7,Fabulous,818,1,6.706862336602750,5.3471075307174700,30
+شاليهات فلورنيسا الطائف,Taif,1000,Deluxe King Room,1,8.5,Good,6,1,1.791759469228060,6.907755278982140,100
+TRAMONTANE,Hail,231,Standard Double Room,1,8.5,Good,853,1,6.748759547491680,5.442417710521790,28
+Relax Day Hotel,Tabuk,250,Economy Double Room,2,7.0,Good,278,1,5.627621113690640,5.521460917862250,28
+Al Musafer Hotel Riyadh,Riyadh,142,Twin Room,2,5.9,Very good,608,1,6.410174881966170,4.955827057601260,35
+"Radisson Blu Hotel, Yanbu",Yanbu,420,Standard Room,1,6.6,Very good,2434,1,7.797291273547470,6.040254711277410,29
+Al Diafah Hotel Suites,Riyadh,230,Standard Double Room,1,7.1,Good,730,1,6.593044534142440,5.438079308923200,35
+مشارف الفخامة,Ahad Rafidah,180,Double Room,1,7.8,Good,138,1,4.927253685157210,5.19295685089021,30
+Hilton Garden Inn Riyadh Financial District,Riyadh,539,King Room,1,7.4,Good,700,1,6.551080335043400,6.289715570909000,37
+Areej Hotel,Makkah,55,Double Room with Private Bathroom,2,6.3,Very good,239,1,5.476463551931510,4.007333185232470,30
+Al Rabwah House,Riyadh,180,One-Bedroom Apartment,2,6.5,Very good,4,1,1.3862943611198900,5.19295685089021,40
+Naviti Warwick Dammam,Dammam,289,Standard Double Room,1,7.8,Good,3572,1,8.18088094199639,5.666426688112430,28
+Nadra Furnished Apartments,Taif,280,Two-Bedroom Apartment,3,6.8,Very good,268,1,5.5909869805108600,5.634789603169250,100
+Najd Peak By Quiet Rooms,Riyadh,162,One-Bedroom Apartment,2,5.4,Very good,530,1,6.272877006546170,5.087596335232380,28
+شقق جنان المفروشة Jenaan Apartments,Najran,133,One-Bedroom Apartment,1,8.1,Good,280,1,5.634789603169250,4.890349128221750,28
+Mabet Al Tahlia Hotel Apartments,Jeddah,237,Deluxe King Studio,1,7.9,Good,1099,1,7.002155954403620,5.4680601411351300,35
+Diamond Tower Hotel,Jeddah,219,Superior  Twin Studio,2,8.6,Fabulous,1189,1,7.080867896690780,5.389071729816500,29
+العييرى للوحدات السكنية بالقنفذة,Al Qunfudhah,95,Double Room with Private Bathroom,4,5.3,Very good,21,1,3.044522437723420,4.553876891600540,35
+Maset Al Masem Al Khobar,Riyadh,300,Double Room with Private Bathroom,2,7.9,Good,648,1,6.473890696352270,5.703782474656200,30
+دار شيمة,An Nuqrah,130,Deluxe Double Room,2,0.0,Very good,0,1,-inf,4.867534450455580,37
+Taj Al Khaleej Furnished Units 2,Turayf,150,Deluxe Apartment,2,8.8,Fabulous,116,1,4.7535901911063600,5.0106352940962600,28
+القبة الذهبية1,Riyadh,205,Two-Bedroom Apartment,3,6.6,Very good,180,1,5.19295685089021,5.3230099791384100,40
+Al Taif Gate Hotel Suites,Taif ,167,One-Bedroom Apartment,1,7.6,Good,4328,1,8.372860820526320,5.117993812416760,35
+HDB hotel Sahafa فندق هدب الصحافه,Riyadh,324,Deluxe Double Room,1,7.6,Good,1157,1,7.053585727193680,5.780743515792330,28
+Hayaa Hotel,Makkah,70,Double Room with Private Bathroom,2,6.3,Very good,386,1,5.955837369464830,4.248495242049360,28
+ريف العلا,Al Ula ,250,King Room,1,7.8,Good,9,1,2.1972245773362200,5.521460917862250,35
+Nozol Royal Inn Hotel,Madinah,180,Quadruple Room with Bathroom,4,7.0,Good,4108,1,8.32069157104845,5.19295685089021,29
+Golden Garden Al Corniche,Dammam,299,King Suite,1,7.2,Good,4641,1,8.442685139241180,5.700443573390690,35
+Al Atlal Hotel,Riyadh,207,Double Room,1,6.9,Very good,1353,1,7.210079628170790,5.332718793265370,30
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,705,Deluxe Double Room with City View,1,8.2,Good,9052,1,9.110741006753430,6.558197802812270,37
+فندق المحمل العصري,Sharurah,150,Double Room,1,0.0,Very good,0,1,-inf,5.0106352940962600,28
+Ghoson Al Zaitoun Furnished Units,Sakakah  ,130,Double Room,1,7.1,Good,51,1,3.9318256327243300,4.867534450455580,37
+Lamar Al Bawadi Hotel,Jeddah  ,285,Executive Suite,1,8.0,Good,1664,1,7.416979621381150,5.652489180268650,28
+Home Inn Hotel Suites,Riyadh,210,Junior Suite,2,8.7,Fabulous,818,1,6.706862336602750,5.3471075307174700,39
+Al Musafer Hotel Riyadh,Riyadh ,142,Twin Room,2,5.9,Very good,608,1,6.410174881966170,4.955827057601260,30
+Hilton Garden Inn Riyadh Financial District,Riyadh ,539,King Room,1,7.4,Good,700,1,6.551080335043400,6.289715570909000,29
+شقق جنان المفروشة Jenaan Apartments,Najran ,133,One-Bedroom Apartment,1,8.1,Good,280,1,5.634789603169250,4.890349128221750,35
+Maset Al Masem Al Khobar,Riyadh ,300,Double Room with Private Bathroom,2,7.9,Good,648,1,6.473890696352270,5.703782474656200,30
+دار شيمة,Hail,130,Deluxe Double Room,2,0.0,Very good,0,1,-inf,4.867534450455580,37
+Al Taif Gate Hotel Suites,Taif,167,One-Bedroom Apartment,1,7.6,Good,4328,1,8.372860820526320,5.117993812416760,35
+ريف العلا,Al Ula,250,King Room,1,7.8,Good,9,1,2.1972245773362200,5.521460917862250,28
+Oasis Rise Hotel Apartments,Jeddah,207,Studio,1,7.9,Good,490,1,6.194405391104670,5.332718793265370,28
+Al Rahaa Furnished Units,Abha,195,Two-Bedroom Apartment,3,7.8,Good,1378,1,7.228388451573600,5.272999558563750,35
+بيتي الفاخرللشقق الفندقية,Riyadh,250,One-Bedroom Apartment,2,8.8,Fabulous,11,1,2.3978952727983700,5.521460917862250,29
+Farah Hotel,Makkah,65,Double Room with Private Bathroom,2,7.2,Good,260,1,5.560681631015530,4.174387269895640,35
+الليل لك للاجنحه الفندقيه 2,Hail,182,Two-Bedroom Apartment,2,5.9,Very good,18,1,2.8903717578961600,5.204006687076800,30
+أجنحة ورد,Madinah,131,Junior Suite,3,5.7,Very good,103,1,4.634728988229640,4.875197323201150,37
+Najd Peak By Quiet Rooms,Riyadh ,162,One-Bedroom Apartment,2,5.4,Very good,530,1,6.272877006546170,5.087596335232380,28
+شقق جنان المفروشة Jenaan Apartments,Najran ,133,One-Bedroom Apartment,2,8.1,Good,280,1,5.634789603169250,4.890349128221750,40
+Rafa Homes - Al Falah,Riyadh ,336,Standard One-Bedroom Apartment,1,7.6,Good,982,1,6.889591308354470,5.817111159963200,28
+القبة الذهبية1,Riyadh ,205,Two-Bedroom Apartment,3,6.6,Very good,180,1,5.19295685089021,5.3230099791384100,28
+Al Taif Gate Hotel Suites,Taif,167,One-Bedroom Apartment,1,7.6,Good,4329,1,8.37309184744198,5.117993812416760,40
+Mandaren Suites,Taif,280,One-Bedroom Apartment,1,8.7,Fabulous,251,1,5.5254529391317800,5.634789603169250,54
+Nozol Royal Inn Hotel,Madinah,189,Quadruple Room with Bathroom,4,7.0,Good,4108,1,8.32069157104845,5.241747015059640,28
+Al Atlal Hotel,Al Khobar,207,Double Room,1,6.9,Very good,1353,1,7.210079628170790,5.332718793265370,28
+منتجع ومزرعة الرند العلا,Al Ula,1250,Two-Bedroom Chalet without pool,5,7.2,Good,8,1,2.0794415416798400,7.1308988302963500,35
+Zahrat Rozah By Quiet Rooms,Riyadh,189,One-Bedroom Apartment,2,6.7,Very good,346,1,5.846438775057730,5.241747015059640,29
+Al Eairy Apartments- Tabuk 4,Tabuk,150,Apartment,3,5.0,Very good,327,1,5.7899601708972500,5.0106352940962600,35
+فندق عروق الذهب المكية 1,Makkah,57,Double Room with Private Bathroom,2,7.2,Good,65,1,4.174387269895640,4.04305126783455,30
+Methaq Hotel Suites,Riyadh,230,One-Bedroom Apartment,1,6.7,Very good,260,1,5.560681631015530,5.438079308923200,37
+Al Safa Hotel Suites,Jazan,151,One-Bedroom Apartment,2,7.5,Good,1331,1,7.193685818395110,5.017279836814920,28
+Golden Tulip Al Waha Hotel - Unayzah,Unayzah,350,Standard King Room,1,8.9,Fabulous,44,1,3.784189633918260,5.857933154483460,40
+Nawazi Ajyad Hotel,Makkah,123,Double Room,1,6.3,Very good,3674,1,8.20903626577507,4.812184355372420,28
+أبهى رفاف خميس مشيط,Khamis Mushayt,79,Budget Double Room,1,4.0,Very good,14,1,2.6390573296152600,4.3694478524670200,28
+Dar Sadan Hotel Suites,Al Bukayriyah,220,Studio,1,7.5,Good,221,1,5.3981627015177500,5.393627546352360,35
+Rotana Hotel,Jeddah,161,Superior Twin Room,2,7.7,Good,1130,1,7.029972911706390,5.081404364984460,29
+Capital O 419 Al Safeer Hotel,Riyadh,120,Standard Studio,2,5.9,Very good,1204,1,7.093404625868770,4.787491742782050,35
+استراحة روح ابحر,Jeddah  ,720,Two-Bedroom Chalet,4,6.8,Very good,5,1,1.6094379124341000,6.579251212010100,88
+Pullman ZamZam Makkah,Makkah,330,Superior Twin Room with Partial Haram View,2,7.2,Good,23493,1,10.064457783419000,5.799092654460530,37
+Swissotel Al Maqam Makkah,Makkah,360,Classic Twin Room with Haram View,2,8.3,Good,21957,1,9.996841274269340,5.886104031450160,28
+فندق المختارون بلازا,Makkah,60,Deluxe Double Room,1,6.8,Very good,145,1,4.976733742420570,4.0943445622221,40
+Rawasi Hotel Suites 3 (For Families Only),Jeddah,250,Two-Bedroom Apartment,3,7.6,Good,264,1,5.575949103146320,5.521460917862250,40
+Samaya Royal Afif,Afīf,170,Superior Apartment,2,8.3,Good,253,1,5.53338948872752,5.135798437050260,37
+RAK Hotel-Aparts,Jeddah,218,Premiere Double Room,1,7.4,Good,1361,1,7.215975002651470,5.384495062789090,35
+Lavent Park Hotel Suites,Jeddah,210,Standard King Room,1,7.2,Good,548,1,6.306275286948020,5.3471075307174700,29
+دار كنان للوحدات السكنية,Jeddah,93,Budget Room,1,6.2,Very good,1020,1,6.927557906278320,4.532599493153260,35
+Al Muhaidb Al Hada Resort,Taif,236,Economy Double Room,1,7.8,Good,802,1,6.687108607866520,5.4638318050256100,33
+Spectrums Residence Managed by The Ascott Limited,Jeddah,405,One-Bedroom Apartment,1,8.2,Good,1524,1,7.329093736246590,6.003887067106540,28
+القصر للأجنحة الفندقية 9 البديع,Abha  ,565,Junior Suite,2,9.4,Superb,20,1,2.995732273553990,6.336825731146440,28
+شقة شاطئ النخيل,Jeddah ,514,Three-Bedroom Apartment,7,8.3,Good,26,1,3.258096538021480,6.2422232654551700,88
+Dana Hotel & Residences 2,Riyadh ,270,One-Bedroom Suite,2,9.2,Superb,345,1,5.84354441703136,5.598421958998380,29
+Hotel Ritaj Alsahel,Yanbu  ,200,Deluxe Room,1,7.9,Good,849,1,6.744059186311350,5.298317366548040,35
+سكن وسط الطبيعة,Jeddah,372,One-Bedroom House,2,9.7,Exceptional,6,1,1.791759469228060,5.918893854273150,30
+Diamond Elite Hotel,Jazan  ,225,Twin Room,2,8.2,Good,1272,1,7.148345743900070,5.41610040220442,37
+حياة ريف للوحدات السكنية,Jeddah,143,One-Bedroom Apartment,2,7.7,Good,278,1,5.627621113690640,4.962844630259910,28
+Ewaa Express Hotel - Gaber,Riyadh  ,375,Suite,1,8.9,Fabulous,562,1,6.331501849893690,5.926926025970410,40
+"Radisson Blu Residence, Dhahran", Al Khobar ,349,Standard Room,1,8.3,Good,2955,1,7.991253929840200,5.855071922202430,28
+Al kharboush For Furnished Units,Hafr Al Baten  ,148,Deluxe Room (2 Adults + 1 Child),1,8.2,Good,824,1,6.714170529909470,4.997212273764120,28
+فندق كراون نجران,Najran ,199,Family Room with Private Bathroom,1,6.5,Very good,56,1,4.02535169073515,5.293304824724490,35
+Retaj Al Bayt Suites,Makkah ,315,Standard Twin Room,2,7.7,Good,3361,1,8.119993827725110,5.752572638825630,29
+قولدن سكوير طريق الرياض Golden Square Riyadh Road,Khamis Mushayt  ,280,One-Bedroom Apartment,2,9.0,Superb,755,1,6.626717749249030,5.634789603169250,35
+Al Ghufran Safwah Hotel Makkah,Makkah ,309,Superior Double Room,2,8.8,Fabulous,7301,1,8.895766604056090,5.733341276897750,30
+Aloft Dhahran Hotel,Al Khobar,375,"Aloft Room, 1 King",1,8.2,Good,4935,1,8.504107951867580,5.926926025970410,37
+Ewaa Express Hotel - Al Rawda,Jeddah,259,Standard King Room,1,8.4,Good,382,1,5.945420608606580,5.556828061699540,28
+Zaha Al Munawara Hotel,Madinah,141,Standard King Room,1,8.1,Good,3474,1,8.153061946801050,4.948759890378170,40
+Manazil Al Dhayf,Jeddah,200,Twin Room,2,8.2,Good,910,1,6.813444599510900,5.298317366548040,28
+Province Al Sham Hotel,Madinah,150,Twin Room,2,7.3,Good,2651,1,7.8826922062890300,5.0106352940962600,28
+FLAMINGO Boutique Hotel,Jeddah,252,Junior Suite,2,8.3,Good,449,1,6.1070228877422500,5.529429087511420,35
+Nadra Furnished Apartments,Taif  ,280,Two-Bedroom Apartment,3,6.8,Very good,268,1,5.5909869805108600,5.634789603169250,100
+الاماكن,Al Ula  ,700,Holiday Home,3,0.0,Very good,0,1,-inf,6.551080335043400,66
+فندق انتور جازان Intour Hotel,Jazan  ,342,Deluxe King Room,1,7.6,Good,195,1,5.272999558563750,5.834810737062610,28
+فندق دانة التاج DANA ALTAJ HOTEL,Makkah,157,Economy Twin Room,2,6.2,Very good,737,1,6.602587892189340,5.056245805348310,35
+فندق الرياض ان - riyadh inn hotel,Riyadh  ,270,Economy Double Room,1,7.8,Good,303,1,5.713732805509370,5.598421958998380,29
+استراحة روح ابحر,Obhor  ,720,Two-Bedroom Chalet,4,6.8,Very good,5,1,1.6094379124341000,6.579251212010100,35
+Rafa - Al Nuzhah,Riyadh  ,430,Superior Double Room,1,8.1,Good,1222,1,7.108244139731540,6.063785208687610,30
+Pullman ZamZam Makkah,Makkah ,330,Superior Twin Room with Partial Haram View,2,7.2,Good,23493,1,10.064457783419000,5.799092654460530,37
+Samaya Royal Afif,Afīf ,170,Superior Apartment,2,8.3,Good,253,1,5.53338948872752,5.135798437050260,28
+RAK Hotel-Aparts,Jeddah ,218,Premiere Double Room,1,7.4,Good,1361,1,7.215975002651470,5.384495062789090,40
+Al Muhaidb Al Hada Resort,Taif ,236,Economy Double Room,1,7.8,Good,802,1,6.687108607866520,5.4638318050256100,45
+القصر للأجنحة الفندقية 9 البديع,Abha,565,Junior Suite,2,9.4,Superb,20,1,2.995732273553990,6.336825731146440,28
+Dana Hotel & Residences 2,Riyadh,270,One-Bedroom Suite,2,9.2,Superb,345,1,5.84354441703136,5.598421958998380,28
+Hotel Ritaj Alsahel,Yanbu,200,Deluxe Room,1,7.9,Good,849,1,6.744059186311350,5.298317366548040,35
+سكن وسط الطبيعة,Jeddah ,372,One-Bedroom House,2,9.7,Exceptional,6,1,1.791759469228060,5.918893854273150,29
+Diamond Elite Hotel,Jazan,225,Twin Room,2,8.2,Good,1272,1,7.148345743900070,5.41610040220442,35
+Ewaa Express Hotel - Gaber,Riyadh,375,Suite,1,8.9,Fabulous,562,1,6.331501849893690,5.926926025970410,30
+ساير للشقق الفندقية,Khamis Mushayt,90,Twin Room with Shared Toilet,2,6.0,Very good,4,1,1.3862943611198900,4.499809670330270,37
+فندق صفوة اجياد,Makkah,100,Twin Room with Private Bathroom,2,6.9,Very good,34,1,3.5263605246161600,4.605170185988090,28
+Mirage Hotel Jeddah,Jeddah,239,Deluxe Twin Room,2,9.0,Superb,1759,1,7.472500744737560,5.476463551931510,40
+فندق وسام التاج,Makkah ,131,Economy Triple Room,3,6.0,Very good,606,1,6.406879986069310,4.875197323201150,57
+Rest Night Hotel Suites- AL Falah,Riyadh,230,Double Room,1,6.9,Very good,1716,1,7.447751280047910,5.438079308923200,28
+OYO 273 Star Yanbu Hotel Suites,Yanbu,140,Standard Studio,1,6.6,Very good,208,1,5.337538079701320,4.941642422609300,35
+Violet Al Azizia Hotel,Makkah,161,King Room,1,8.5,Good,7107,1,8.868835492826900,5.081404364984460,29
+Aber Hotel - AlYasmin,Riyadh,465,Deluxe Twin Room,2,8.4,Good,1433,1,7.267525427828170,6.142037405587360,35
+البحر للوحدات السكنية,Yanbu,170,Standard Double Room,1,6.8,Very good,197,1,5.2832037287379900,5.135798437050260,30
+Swiss Blue Al Samer,Jeddah,220,Studio,1,8.1,Good,589,1,6.3784261836515900,5.393627546352360,37
+Semat ApartHotel,Jeddah ,300,One-Bedroom Apartment,1,8.3,Good,458,1,6.126869184114190,5.703782474656200,28
+EVA Hotel,Jeddah  ,360,Deluxe Queen Room,1,8.2,Good,402,1,5.996452088619020,5.886104031450160,40
+Marina Arar Furnished Apartments,Arar  ,153,Deluxe Double or Twin Room,1,8.9,Fabulous,771,1,6.647688373563330,5.030437921392440,28
+OYO 176 Hotel Safari Al Hada,Taif,108,Standard Studio,1,6.1,Very good,2280,1,7.731930721948490,4.68213122712422,45
+Madina Palace Hotel,Jeddah,207,Standard Double Room,2,6.0,Very good,330,1,5.799092654460530,5.332718793265370,28
+روضة الملبي للوحدات السكنية,Madinah,120,Double Room,2,6.5,Very good,6,1,1.791759469228060,4.787491742782050,28
+"Radisson Blu Hotel, Buraidah",Buraydah  ,444,Standard Room,1,8.3,Good,1826,1,7.509883061154910,6.095824562432230,35
+Al Kenana Hotel,Makkah ,69,Double Room with Private Bathroom,2,7.2,Good,167,1,5.117993812416760,4.23410650459726,29
+شاليه جُمان سبرينجز للعائلات,King Abdullah Economic City,590,One-Bedroom Chalet,5,9.5,Exceptional,6,1,1.791759469228060,6.380122536899770,35
+فندق جمانه,Yanbu  ,270,Standard Twin Room,2,8.0,Good,1204,1,7.093404625868770,5.598421958998380,30
+Al Hayaah Bayta,Tabuk  ,201,Studio Apartment,2,6.5,Very good,475,1,6.163314804034640,5.303304908059080,37
+Ibis Yanbu,Yanbu  ,330,Double Room,1,7.9,Good,1134,1,7.033506484287700,5.799092654460530,28
+شقه كبيره,Obhor ,480,Two-Bedroom Apartment,3,0.0,Very good,0,1,-inf,6.173786103901940,66
+Batoul Ajyad Hotel,Makkah,111,Quadruple Room,4,7.5,Good,2362,1,7.767263996757310,4.709530201312330,28
+نظرة للشقق الفندقية,Raʼs Munaysif,449,One-Bedroom Apartment,2,8.0,Good,11,1,2.3978952727983700,6.1070228877422500,28
+Rwnza Hotel Apartments,Tabuk  ,200,One-Bedroom Apartment,5,5.4,Very good,63,1,4.143134726391530,5.298317366548040,100
+Seher Aloyon Funished Apartments,Buraydah  ,250,Two-Bedroom Apartment,6,8.1,Good,599,1,6.395261598115450,5.521460917862250,150
+Dari Hotel Families Only,Jeddah  ,266,Studio,1,8.9,Fabulous,238,1,5.472270673671480,5.583496308781700,35
+Durra Taraf 1 Residential,Dammam  ,350,One-Bedroom Apartment,1,7.2,Good,1368,1,7.221105098182500,5.857933154483460,30
+استراحات و شاليهات البرج,Al Baha,896,Two-Bedroom Apartment,9,7.4,Good,5,1,1.6094379124341000,6.79794041297493,37
+هيفن بلازا,Riyadh ,230,Standard Room,1,6.4,Very good,3446,1,8.144969417087880,5.438079308923200,28
+Iwan Alandalusia Al Ajaweed,Jeddah,230,Standard Double Room,1,7.8,Good,444,1,6.095824562432230,5.438079308923200,40
+Taj Al Worood Hotel,Jeddah ,240,King Room,1,8.4,Good,2228,1,7.708859601047180,5.480638923341990,28
+Taj Al Arous Furnished Units,Jeddah,90,غرفة نوم اقتصادية للعزاب مع حمام خارجي,2,6.5,Very good,73,1,4.290459441148390,4.499809670330270,28
+شالية الياقوت الأبيض,Makkah,280,Two-Bedroom Chalet,2,0.0,Very good,0,1,-inf,5.634789603169250,38
+Reef residence,Qaryah al Ulya,238,Two-Bedroom Apartment,6,0.0,Very good,0,1,-inf,5.472270673671480,60
+Al Tamayoz Furnished Units,Madinah,72,Double or Twin Room,1,5.4,Very good,360,1,5.886104031450160,4.276666119016060,35
+Arjaan Altakhassusi Hotel Suites,Riyadh  ,379,Superior Twin Apartment,2,8.6,Fabulous,1630,1,7.396335293800810,5.937536205082430,30
+"Radisson Blu Hotel, Dhahran",Al Khobar,284,Standard Room,1,7.5,Good,1779,1,7.483806687665840,5.648974238161210,28
+ساير للشقق الفندقية,Khamis Mushayt  ,90,Twin Room with Shared Toilet,2,6.0,Very good,4,1,1.3862943611198900,4.499809670330270,28
+فندق صفوة اجياد,Makkah  ,100,Twin Room with Private Bathroom,2,6.9,Very good,34,1,3.5263605246161600,4.605170185988090,35
+Mirage Hotel Jeddah,Jeddah ,239,Deluxe Twin Room,2,9.0,Superb,1759,1,7.472500744737560,5.476463551931510,29
+OYO 273 Star Yanbu Hotel Suites,Yanbu ,140,Standard Studio,1,6.6,Very good,208,1,5.337538079701320,4.941642422609300,35
+Aber Hotel - AlYasmin,Riyadh  ,465,Deluxe Twin Room,2,8.4,Good,1433,1,7.267525427828170,6.142037405587360,30
+البحر للوحدات السكنية,Yanbu  ,170,Standard Double Room,1,6.8,Very good,197,1,5.2832037287379900,5.135798437050260,37
+Swiss Blue Al Samer,Jeddah  ,220,Studio,1,8.1,Good,589,1,6.3784261836515900,5.393627546352360,28
+Madina Palace Hotel,Jeddah  ,207,Standard Double Room,2,6.0,Very good,330,1,5.799092654460530,5.332718793265370,40
+SAS Hotel,Al Jubail  ,299,Economic Room,1,7.2,Good,1134,1,7.033506484287700,5.700443573390690,28
+Mera Houses Aparthotel,Baljurashi  ,200,Double Room,1,8.0,Good,1782,1,7.485491608030750,5.298317366548040,28
+Al Qimah Apartments,Dammam  ,75,Standard Double Room with Shared Bathroom,2,5.0,Very good,362,1,5.8916442118257700,4.31748811353631,35
+Dorar Rabigh Hotel Apartments,Rabigh  ,143,One-Bedroom Apartment,1,6.1,Very good,172,1,5.147494476813450,4.962844630259910,29
+Dar Al Maamon Furnished Apartment,Jeddah ,275,Apartment,3,8.1,Good,365,1,5.8998973535824900,5.616771097666570,35
+الزمردة للوحدات السكنية,Ash Shuqayq  ,296,Two-Bedroom Apartment,3,8.3,Good,65,1,4.174387269895640,5.69035945432406,30
+Amyal Alras,Al Rass  ,212,One-Bedroom Apartment,1,8.4,Good,84,1,4.430816798843310,5.356586274672010,37
+Lilas Taif,Taif  ,125,Studio Apartment,1,7.1,Good,433,1,6.07073772800249,4.8283137373023000,28
+الحمدانية الراقي للشقق المفروشة,Jeddah  ,95,One-Bedroom Apartment,2,6.0,Very good,463,1,6.137727054086230,4.553876891600540,40
+Burj Marweat Alkhalil,Makkah  ,75,Budget Double Room,2,6.9,Very good,657,1,6.48768401848461,4.31748811353631,28
+New Suite 3,Riyadh  ,215,One-Bedroom Apartment,1,7.9,Good,54,1,3.9889840465642700,5.3706380281276600,28
+TULAY PARK,Al Khobar,195,King Room,1,6.8,Very good,462,1,6.135564891081740,5.272999558563750,35
+Almakan Suites 101,Riyadh  ,171,Studio,1,5.4,Very good,880,1,6.779921907472250,5.14166355650266,29
+أبها إيليت للوحدات الفندقية,Abha  ,204,Deluxe King Studio,1,6.7,Very good,124,1,4.820281565605040,5.318119993844220,35
+Mora Hotel,Jeddah,250,Double or Twin Room,2,7.9,Good,916,1,6.82001636467413,5.521460917862250,30
+Karam Taibah Almasi,Madinah,127,Standard Triple Room,3,5.9,Very good,132,1,4.882801922586370,4.844187086458590,37
+"شاليهات الرحاب 1, 2",Ash Shiqqah  ,550,Two-Bedroom Chalet,6,8.7,Fabulous,7,1,1.9459101490553100,6.309918278226520,60
+Al Anoud & Aljawhara Apartments,Hafr Al Baten  ,250,Two-Bedroom Apartment,5,7.0,Good,80,1,4.382026634673880,5.521460917862250,40
+Jewar Al Saqefah Hotel,Madinah,200,Double Room,2,7.6,Good,2428,1,7.794823152179390,5.298317366548040,28
+Masar Najd,Unayzah  ,200,One-Bedroom Apartment,1,7.8,Good,427,1,6.056784013228630,5.298317366548040,28
+دانة القادسية للوحدات السكنية المفروشة,Riyadh  ,170,Studio,1,7.8,Good,209,1,5.342334251964810,5.135798437050260,35
+خليجية,Abha  ,75,Deluxe King Room,1,4.2,Very good,95,1,4.553876891600540,4.31748811353631,29
+العييري للوحدات المفروشة النعيرية 2,Al Nairyah,90,Double Room with Private Bathroom,3,0.0,Very good,0,1,-inf,4.499809670330270,35
+Shomookh Hotel,Madinah,111,Twin Room,2,7.5,Good,2100,1,7.649692623711510,4.709530201312330,30
+Hoor Park - حور بارك,Jeddah ,279,King Room,1,7.7,Good,129,1,4.859812404361670,5.631211781821370,37
+البرجس للأجنحة الفندقية,Al Jubail  ,230,Studio,2,6.4,Very good,193,1,5.262690188904890,5.438079308923200,28
+جازلي للأجنحة الفندقية,Jeddah  ,157,One-Bedroom Apartment,1,7.4,Good,769,1,6.645090969505640,5.056245805348310,40
+العييري للوحدات المفروشة النعيرية 2,Al Nairyah  ,90,Double Room with Private Bathroom,3,0.0,Very good,0,1,-inf,4.499809670330270,28
+Hoor Park - حور بارك,Jeddah ,279,Standard Double Room,2,7.7,Good,129,1,4.859812404361670,5.631211781821370,28
+Roof Hotel Apartments,Riyadh  ,400,Superior King Room,1,8.1,Good,356,1,5.87493073085203,5.991464547107980,35
+"Makkah Clock Royal Tower, A Fairmont Hotel",Makkah  ,450,Fairmont King with City View,1,8.3,Good,19474,1,9.876835521538700,6.1092475827643700,29
+Al Muhaidb Al Narges,Riyadh ,250,Studio,1,7.2,Good,946,1,6.852242569051880,5.521460917862250,35
+التميز,An Nikāshah  ,162,One-Bedroom Apartment,1,0.0,Very good,0,1,-inf,5.087596335232380,30
+Auris Al Fanar ApartHotel,Riyadh,245,One-Bedroom Apartment,1,7.6,Good,548,1,6.306275286948020,5.501258210544730,37
+Al Eairy Apartments- Dammam 8,Dammam  ,350,One-Bedroom Apartment,1,5.9,Very good,222,1,5.402677381872280,5.857933154483460,28
+Swiss International Resort Unaizah Al Qassim,Unayzah  ,998,One Bedroom Villa with Indoor Pool,1,8.5,Good,871,1,6.769641976852500,6.905753276311460,40
+Oasis Najran Hotel,Najran  ,245,Budget Double Room,1,8.6,Fabulous,869,1,6.767343125265390,5.501258210544730,28
+Fadet Talla Residentials,Buraydah  ,128,Studio Apartment,1,7.1,Good,462,1,6.135564891081740,4.852030263919620,28
+Palms Lily Hotel Suites,Al Ahsa  ,140,Studio,1,6.2,Very good,1548,1,7.344719054149670,4.941642422609300,35
+Al Hamra Palace By Warwick,Riyadh  ,370,Deluxe Room,1,7.2,Good,1233,1,7.117205503164340,5.91350300563827,29
+Almakan Almosafer Hotel 106,Riyadh  ,153,One-Bedroom Apartment,1,5.7,Very good,1057,1,6.963189985870240,5.030437921392440,35
+Tulip Jazan,Jazan  ,130,Double Room,1,6.4,Very good,465,1,6.142037405587360,4.867534450455580,30
+جولدن روز Golden Rose,Jazan  ,324,Deluxe King Studio,2,8.5,Good,99,1,4.59511985013459,5.780743515792330,37
+Manarat Al Misk Hotel,Makkah ,100,Basic Triple Room,3,6.9,Very good,517,1,6.248042874508430,4.605170185988090,28
+Madeira Hotel Suites,Al Khobar  ,349,One-Bedroom Suite,1,8.1,Good,333,1,5.808142489980440,5.855071922202430,40
+منازل جدة للوحدات السكنية,Jeddah  ,203,Two-Bedroom Apartment,4,7.4,Good,670,1,6.507277712385010,5.313205979041790,54
+Afraa Hotel,Makkah  ,151,Triple Room,3,8.0,Good,2183,1,7.688455356549940,5.017279836814920,28
+Holiday Villa Resort Yanbu,Yanbu  ,943,Deluxe Suite with Sea View,3,7.6,Good,457,1,6.124683390894210,6.849066282633460,35
+Grand Plaza Hotel-KAFD Riyadh,Riyadh  ,418,Standard Double Room,1,8.1,Good,472,1,6.156978985585560,6.035481432524760,29
+Qasr Al Hamra ApartHotel Al Hamra Branch,Jeddah  ,144,Deluxe Studio,1,7.1,Good,298,1,5.697093486505410,4.969813299576000,35
+نزل خيال للوحدات السكنية,Abha  ,167,One-Bedroom Apartment,2,7.0,Good,174,1,5.159055299214530,5.117993812416760,30
+"Makkah Clock Royal Tower, A Fairmont Hotel",Makkah,450,Fairmont King with City View,1,8.3,Good,19474,1,9.876835521538700,6.1092475827643700,37
+Al Muhaidb Al Narges,Riyadh  ,250,Studio,1,7.2,Good,946,1,6.852242569051880,5.521460917862250,28
+التميز,Riyadh,162,One-Bedroom Apartment,1,0.0,Very good,0,1,-inf,5.087596335232380,40
+Palms Lily Hotel Suites,Al Ahsa ,140,Studio,1,6.2,Very good,1548,1,7.344719054149670,4.941642422609300,28
+Manarat Al Misk Hotel,Makkah,100,Basic Triple Room,3,6.9,Very good,517,1,6.248042874508430,4.605170185988090,28
+Holiday Villa Resort Yanbu,Yanbu ,943,Deluxe Suite with Sea View,3,7.6,Good,457,1,6.124683390894210,6.849066282633460,35
+شقة مفروشة حي الشروق مدينة الملك عبدالله الاقتصادية,King Abdullah Economic City  ,320,Two-Bedroom Apartment,3,7.5,Good,4,1,1.3862943611198900,5.768320995793770,29
+نزل خيال للوحدات السكنية,Abha S,167,One-Bedroom Apartment,2,7.0,Good,174,1,5.159055299214530,5.117993812416760,35
+هتان السودة,Abha,249,Two-Bedroom Villa,3,8.2,Good,5,1,1.6094379124341000,5.517452896464710,30
+Al Aqeeq Madinah Hotel,Madinah,285,"Classic Room King bed, City View",1,7.8,Good,6466,1,8.774312958285380,5.652489180268650,37
+اطلالة الشرفة3 -Terrace view Residence,Dammam  ,186,One-Bedroom Apartment,1,8.0,Good,639,1,6.459904454377540,5.225746673713200,28
+Karam Al Hejaz,Madinah,105,Deluxe Double Room,2,5.9,Very good,198,1,5.288267030694540,4.653960350157520,40
+OYO 586 Al Tamayoz Al Raqi Hira,Jeddah,154,One-Bedroom Apartment,1,7.7,Good,35,1,3.5553480614894100,5.0369526024136300,28
+Masat Darkom 2 Furnished Apartments,Buraydah ,200,Studio,1,7.5,Good,258,1,5.552959584921620,5.298317366548040,28
+Loaloat Al Khobar,Al Khobar  ,189,Deluxe Studio,1,7.2,Good,468,1,6.148468295917650,5.241747015059640,35
+Dar Hashim Hotel Apartments - Al Morouj,Riyadh  ,380,One-Bedroom Apartment,1,8.9,Fabulous,2320,1,7.749322464660360,5.940171252720430,29
+العييري للوحدات السكنية المفروشة الباحة 2,Al Baha  ,90,One-Bedroom Apartment,2,3.6,Very good,294,1,5.683579767338680,4.499809670330270,35
+Mira Waterfront Hotel Jeddah,Jeddah  ,285,Superior King Room with City View,1,6.4,Very good,5769,1,8.660254034256890,5.652489180268650,30
+Taleen AlQuds 2 hotel apartments,Riyadh  ,160,One-Bedroom Apartment,1,5.8,Very good,119,1,4.77912349311153,5.075173815233830,37
+Alfarhan Panda Alfayha,Riyadh  ,288,Budget Double Room,1,8.0,Good,943,1,6.849066282633460,5.662960480135950,28
+Dana Hotel & Residences,Riyadh  ,350,Deluxe Double Room,1,8.8,Fabulous,716,1,6.573680166960650,5.857933154483460,40
+Emerald Hotel,Jeddah  ,325,Deluxe King Room,1,8.5,Good,1047,1,6.953684210870540,5.783825182329740,28
+فندق ديار السلام,Madinah,117,Double Room,2,7.2,Good,583,1,6.368187186350490,4.762173934797760,28
+فندق رحيق المدينه,Al Madinah  ,90,Budget Double Room,2,5.1,Very good,87,1,4.465908118654580,4.499809670330270,35
+Signature Al Khobar Hotel,Al Khobar  ,332,Standard  Room,1,7.1,Good,1499,1,7.312553498102600,5.805134968916490,29
+"KAEC, Bay La Sun, Marina 2, Studio with Garden Patio",King Abdullah Economic City  ,570,Family Studio,2,8.8,Fabulous,77,1,4.343805421853680,6.345636360828600,35
+Park Jizan Hotel,Jazan  ,300,Deluxe Room (2 Adults + 1 Child),1,7.8,Good,810,1,6.697034247666480,5.703782474656200,30
+Afaq Jeddah 3,Jeddah  ,160,Budget Double Room,1,7.2,Good,9,1,2.1972245773362200,5.075173815233830,37
+فندق أعيان الششة,Makkah  ,61,Double Room with Private Bathroom,2,6.4,Very good,46,1,3.828641396489100,4.110873864173310,28
+Khaleej ALez Furnished Units,Dammam  ,122,Studio Apartment,3,6.8,Very good,588,1,6.376726947898630,4.804021044733260,40
+الحماد للشقق الفندقية,Jeddah  ,150,King Room,1,7.2,Good,66,1,4.189654742026430,5.0106352940962600,28
+Silent Room 1 By Quiet Rooms,Riyadh  ,183,One-Bedroom Apartment,1,6.8,Very good,446,1,6.100318952020060,5.209486152841420,28
+شاليه فيلا درة العروس,Jeddah ,2000,Two-Bedroom Chalet,9,8.5,Good,77,1,4.343805421853680,7.600902459542080,90
+Chalet Y&M,Ar Rafī‘ah  ,720,One-Bedroom Chalet,4,0.0,Very good,0,1,-inf,6.579251212010100,58
+Al Muhaidb Tahliya (Olaya),Raʼs Munaysif,240,Studio,1,6.3,Very good,598,1,6.393590753950630,5.480638923341990,35
+ستديو القهوة النجدية المزاحمية طريق مكة,Makkah ,144,One-Bedroom Apartment,1,0.0,Very good,0,1,-inf,4.969813299576000,30
+Danat Layalina Apparthotel,Al Namas  ,200,One-Bedroom Apartment,3,7.6,Good,499,1,6.212606095751520,5.298317366548040,37
+OYO 351 Darr Mesk,Hail  ,122,Standard Studio Double,1,5.8,Very good,123,1,4.812184355372420,4.804021044733260,28
+Al Fairouz Resort,Taif ,215,Suite with Balcony,1,7.7,Good,197,1,5.2832037287379900,5.3706380281276600,40
+Grand Star Al Saha Hotel,Jeddah  ,203,Standard Twin Room,1,7.3,Good,249,1,5.517452896464710,5.313205979041790,28
+Silent Room 3 By Quiet Rooms,Riyadh  ,216,Deluxe Suite,2,7.2,Good,307,1,5.726847747587200,5.375278407684170,28
+Mar Al Diyafah,Burayman,210,Economy Double or Twin Room,1,8.4,Good,39,1,3.6635616461296500,5.3471075307174700,35
+OYO 315 Ramz Abha Hotel,Abha  ,126,Standard Studio,1,8.0,Good,1390,1,7.237059026124740,4.836281906951480,29
+OYO 277 Al Tamayoz Al Raqi Furnished Units 3,Jeddah  ,88,Deluxe Studio,2,6.1,Very good,328,1,5.793013608384140,4.477336814478210,35
+Al Naseem Apartments 9,Riyadh  ,44,Twin Room,2,4.8,Very good,26,1,3.258096538021480,3.784189633918260,30
+Jood At Taif residential units,Taif  ,120,Studio Apartment,2,7.0,Good,166,1,5.111987788356540,4.787491742782050,37
+Rest Night Hotel Apartments Wadi Al Dawasir,Wadi Al Dawasir  ,252,Double Room,2,8.1,Good,1233,1,7.117205503164340,5.529429087511420,28
+Royal Nights Chalet,Ad Darb  ,500,Two-Bedroom Chalet,3,5.2,Very good,4,1,1.3862943611198900,6.214608098422190,40
+Comfort Inn AL TAAWON FAMILY ONLY,Riyadh  ,171,Studio,1,5.5,Very good,470,1,6.152732694704100,5.14166355650266,28
+فندق زهرة السعد 6,Makkah  ,100,Deluxe Double Room,1,7.6,Good,107,1,4.672828834461910,4.605170185988090,28
+درة العروس - للعائلات فقط,Jeddah ,650,Three-Bedroom Chalet,6,7.4,Good,55,1,4.007333185232470,6.476972362889680,77
+Seasons Park Hotel,Jeddah,330,Queen Room with Two Queen Beds,2,8.6,Fabulous,1029,1,6.9363427358340500,5.799092654460530,29
+OYO 167 Dar Al Raies Hotel,Makkah  ,91,Standard Studio,1,7.1,Good,852,1,6.747586526829320,4.51085950651685,35
+فندق حياة المدينة,Madinah,108,Deluxe King Room,1,7.0,Good,35,1,3.5553480614894100,4.68213122712422,30
+Al Eairy Apartments- Riyadh 3,Riyadh  ,105,Double or Twin Room,1,5.4,Very good,604,1,6.403574197934820,4.653960350157520,37
+By Quiet Rooms ركن العمر للوحدات السكنية,Riyadh  ,191,Studio,1,6.4,Very good,205,1,5.3230099791384100,5.25227342804663,28
+Samaa Eva Resort,Abha  ,250,Junior Suite,1,8.3,Good,583,1,6.368187186350490,5.521460917862250,40
+Nawazi Al Tawsea,Makkah  ,75,Double Room,2,5.4,Very good,432,1,6.068425588244110,4.31748811353631,28
+Quetzal Aparthotel,Riyadh ,383,Standard Double Room,2,7.9,Good,1773,1,7.480428306074210,5.948034989180650,28
+The origins of Capricorn Arbism 15,Dammam  ,85,One-Bedroom Apartment,2,4.5,Very good,20,1,2.995732273553990,4.442651256490320,35
+نوفا السويدى,Riyadh  ,280,Two-Bedroom Apartment,5,5.3,Very good,23,1,3.1354942159291500,5.634789603169250,70
+Dar Al Janoub Hotel Apartments,Jeddah ,450,Economy Double or Twin Room,1,8.6,Fabulous,940,1,6.84587987526405,6.1092475827643700,35
+غروب الشمس للشقق المفروشه,Jazan  ,150,One-Bedroom Apartment,2,6.4,Very good,13,1,2.5649493574615400,5.0106352940962600,30
+فندق أعيان المعابدة,Makkah  ,59,Double Room with Private Bathroom,2,8.1,Good,35,1,3.5553480614894100,4.07753744390572,37
+TIME Dammam Residence,Dammam  ,238,One-Bedroom Apartment,1,7.9,Good,968,1,6.875232087276580,5.472270673671480,28
+the blue Diamond 17,Dammam  ,69,Economy Triple Room,3,4.6,Very good,17,1,2.833213344056220,4.23410650459726,40
+Armada Hotel Jazan,Jazan ,234,Deluxe Room,1,8.5,Good,1250,1,7.1308988302963500,5.455321115357700,28
+فندق جواد التاج Jawad Al-Taj Hotel,Makkah,157,Economy Double Room,2,6.0,Very good,600,1,6.396929655216150,5.056245805348310,28
+AlMuhaidb Residence Alkhafji,Al Khafji  ,239,Superior Double Room,1,8.4,Good,1252,1,7.132497551660040,5.476463551931510,35
+Al Eairy Apartments - Al Madinah 14,Madinah,65,Double or Twin Room,1,5.9,Very good,1541,1,7.340186835320120,4.174387269895640,29
+AlBaha Palace Furnished Apartment,Al Baha  ,221,Double Room,1,7.6,Good,400,1,5.991464547107980,5.3981627015177500,35
+Holiday Plus Hotel Suites,Jeddah  ,404,Two-Bedroom Apartment,3,8.1,Good,249,1,5.517452896464710,6.0014148779611500,30
+Waqf Al Sherbiny 3,Madinah,100,Standard Studio,1,8.1,Good,296,1,5.69035945432406,4.605170185988090,37
+Radisson Blu Resort Jizan,Jazan  ,534,Standard Room,1,7.6,Good,3436,1,8.142063283104150,6.280395838960200,28
+أزد للشقق الفندقية,Tanomah  ,350,Superior Double or Twin Room with Mountain View,1,9.2,Superb,41,1,3.713572066704310,5.857933154483460,40
+Crown Tower Hotel,Al Jubail  ,257,Standard Double Room,2,8.2,Good,1209,1,7.097548850614790,5.54907608489522,28
+المنتدي,Abha ,75,Deluxe Double Room,1,4.5,Very good,154,1,5.0369526024136300,4.31748811353631,28
+فندق الفيصل,Al Ula  ,250,One-Bedroom Apartment,2,5.9,Very good,12,1,2.4849066497880000,5.521460917862250,35
+Al Denny Aparthotel,Jeddah  ,120,Double Room,1,7.0,Good,749,1,6.618738983517220,4.787491742782050,29
+ضيوف جدة للشقق الفندقية,Jeddah  ,153,Studio,1,7.7,Good,305,1,5.720311776607410,5.030437921392440,35
+ALolayan Plaza Hotel فندق العليان بلازا,Makkah  ,125,Standard  Room,2,7.8,Good,571,1,6.3473892096560100,4.8283137373023000,30
+فندق الميار Almayar hotel,Madinah,210,Deluxe Queen Room,1,8.6,Fabulous,30,1,3.4011973816621600,5.3471075307174700,37
+Methaq Hotel Suites 2,Riyadh ,270,One-Bedroom Suite,1,4.0,Very good,7,1,1.9459101490553100,5.598421958998380,28
+Shataa Alula Apartment,Al Ula  ,350,One-Bedroom Apartment,1,8.3,Good,3,1,1.0986122886681100,5.857933154483460,40
+"Luxury Modern Apartment, Alwaha- للعوائل فقط",King Abdullah Economic City ,891,Two-Bedroom Apartment,2,9.6,Exceptional,20,1,2.995732273553990,6.792344427470810,70
+Najmat Manami Azizyya,Riyadh ,170,One-Bedroom Apartment,1,7.1,Good,111,1,4.709530201312330,5.135798437050260,28
+Fakher Yanbu 3 Furnished Units,Yanbu  ,400,Suite with Sea View,1,7.9,Good,398,1,5.986452005284440,5.991464547107980,35
+Zowar International Hotel,Madinah,159,Standard Twin Room,1,7.0,Good,1668,1,7.419380582918690,5.0689042022202300,29
+Al Farhan Hotel Suites,Al Jubail  ,141,Deluxe Double Room (1 adult + 1 child),1,6.8,Very good,419,1,6.037870919922140,4.948759890378170,35
+Hayah Al Waha Hotel,Madinah,93,Triple Room,3,5.9,Very good,2579,1,7.8551570058813400,4.532599493153260,30
+Gacine Hotel,Madinah,235,Large Twin Room,2,8.9,Fabulous,637,1,6.456769655572160,5.459585514144160,37
+Ramz Al Fakhamah,Taif  ,178,Deluxe King Studio,1,8.6,Fabulous,837,1,6.729824070489480,5.181783550292090,28
+Open ApartHotel,Dammam  ,171,One-Bedroom Apartment,2,5.5,Very good,729,1,6.591673732008660,5.14166355650266,40
+Elite Jeddah Hotel,Jeddah,295,Budget Double Room,2,7.8,Good,1395,1,7.240649694255470,5.68697535633982,28
+Shahad Hotel,Riyadh  ,162,One-Bedroom Apartment,1,7.2,Good,15,1,2.70805020110221,5.087596335232380,28
+Arif Housing Units,Buraydah  ,270,Standard King Room,1,8.7,Fabulous,627,1,6.440946540632920,5.598421958998380,35
+Burj Alhayah Hotel Suites Alfalah,Riyadh  ,220,Studio,1,7.5,Good,731,1,6.594413459749780,5.393627546352360,29
+Burj Al Faris Hotel Apartments,Jeddah  ,196,Studio,1,8.1,Good,923,1,6.827629234502850,5.278114659230520,35
+Al Marwa Rayhaan by Rotana - Makkah,Makkah  ,314,Classic King Room Haram view,1,7.7,Good,8052,1,8.993675786759680,5.749392985908250,30
+فندق سكناي رويالSuknai Royal Hotel,Hail  ,397,Standard King Room,1,8.9,Fabulous,81,1,4.394449154672440,5.983936280687190,37
+Kayan Al Taif Hotel,Taif  ,254,Superior King Room,1,8.5,Good,1221,1,7.107425474110710,5.537334267018540,28
+Four Seasons Stars Aparthotel,Al Jubail  ,140,King Studio,1,8.2,Good,74,1,4.30406509320417,4.941642422609300,40
+المهيدب للوحدات السكنيه - حي البوادي,Jeddah,204,King Studio,1,8.5,Good,103,1,4.634728988229640,5.318119993844220,28
+فندق لافيرا ان Lavera Inn Hotel,Riyadh ,366,Deluxe Double Room,1,8.2,Good,139,1,4.9344739331306900,5.902633333401370,28
+New Suite,Riyadh ,194,Deluxe Room (1 adult + 2 children),1,7.4,Good,127,1,4.844187086458590,5.267858159063330,35
+Lina Park 5,Al Khobar  ,135,One-Bedroom Apartment,1,6.7,Very good,441,1,6.089044875446850,4.90527477843843,29
+Rosa Aparthotel,Buraydah  ,200,Double or Twin Room,1,6.1,Very good,124,1,4.820281565605040,5.298317366548040,35
+Golden Bujari Hotel Al Khamis,Khamis Mushayt  ,523,Junior Suite,1,8.0,Good,523,1,6.259581464064920,6.259581464064920,30
+"Crowne Plaza Jeddah, an IHG Hotel",Jeddah ,435,Standard Double Room,1,8.3,Good,1560,1,7.352441100243580,6.075346031088680,37
+"Crowne Plaza Riyadh - RDC Hotel & Convention, an IHG Hotel",Riyadh  ,795,Deluxe Room with Two Beds - Non-Smoking,2,8.8,Fabulous,2137,1,7.667158255319150,6.678342114654330,28
+"InterContinental Jeddah, an IHG Hotel",Jeddah ,702,Deluxe Room,1,7.9,Good,2785,1,7.932003152361390,6.553933404025810,40
+"Crowne Plaza Riyadh Al Waha, an IHG Hotel",Riyadh  ,420,Superior Room,1,7.5,Good,1717,1,7.448333860897480,6.040254711277410,28
+Gloria Inn Riyadh,Riyadh  ,300,Standard Room,1,8.0,Good,3964,1,8.285008895449880,5.703782474656200,28
+جلنار المدينة,Madinah,210,One-Bedroom Apartment,1,7.7,Good,98,1,4.584967478670570,5.3471075307174700,35
+Al Farhan Dumah Al Jandal,Dawmat al Jandal  ,152,Budget Single Room,1,8.2,Good,104,1,4.6443908991413700,5.0238805208462800,29
+استراحة الشبعان,Shaban  ,150,One-Bedroom Apartment,2,0.0,Very good,0,1,-inf,5.0106352940962600,35
+Areen Jeddah Suites Al Madina Road,Jeddah ,212,Junior Suite,1,7.3,Good,144,1,4.969813299576000,5.356586274672010,30
+Radiha Hotel Suites,Taif ,180,Deluxe King Room,1,7.3,Good,273,1,5.60947179518496,5.19295685089021,37
+إليت الحمراء - فرع الكورنيش,Ar Ruʼays  ,420,Suite with Sea View,2,8.1,Good,158,1,5.062595033026970,6.040254711277410,28
+Sendan Residence,Dammam  ,360,One Bedroom Apartment,2,8.3,Good,2033,1,7.617267813628350,5.886104031450160,40
+Top Stars Hotel,Al Hanakiyah  ,150,Deluxe Double Room with Bath,1,8.8,Fabulous,54,1,3.9889840465642700,5.0106352940962600,28
+أورينتال رزيدنس الدمام,Dammam  ,450,Deluxe Double Room,1,8.5,Good,216,1,5.375278407684170,6.1092475827643700,28
+روز للوحدات السكنيه,Al Thybiyah  ,185,Double or Twin Room with Bathroom,2,8.0,Good,44,1,3.784189633918260,5.220355825078320,35
+كيان للأجنحة الفندقية,Ahad Rafidah  ,325,Deluxe King Room,1,9.3,Superb,130,1,4.867534450455580,5.783825182329740,29
+Le Park Concord Hotel - Turaif,Ţurayf  ,250,Deluxe Suite,1,9.0,Superb,280,1,5.634789603169250,5.521460917862250,35
+فندق كيان,Ahad Rafidah  ,225,Deluxe Double Room,1,8.3,Good,70,1,4.248495242049360,5.41610040220442,30
+Mabiti Alula فندق مبيتي العلا,Al Ula  ,585,Superior Queen Room,1,8.3,Good,58,1,4.060443010546420,6.371611847231860,37
+Alfaw Plaza Hotel,Sharurah ,220,Standard Single Room,1,8.8,Fabulous,67,1,4.204692619390970,5.393627546352360,28
+Crystal Blue Rabigh 2,Rabigh  ,300,Deluxe Double Room (2 Adults + 1 Child),1,8.4,Good,243,1,5.493061443340550,5.703782474656200,40
+ذوق الخيال بإدارة وتشغيل الضيافة بالاس,Jeddah,388,Superior One-Bedroom Apartment,1,8.9,Fabulous,238,1,5.472270673671480,5.961005339623270,28
+Jeddah Seasons Furnished Apartments,Riyadh ,200,Family Suite,1,7.3,Good,98,1,4.584967478670570,5.298317366548040,28
+فندق لؤلؤة المختارون,Riyadh ,60,Twin Room,2,6.0,Very good,18,1,2.8903717578961600,4.0943445622221,35
+Novotel Riyadh Al Anoud,Riyadh  ,360,Superior Queen Room,1,7.2,Good,2943,1,7.987184748233470,5.886104031450160,29
+Centro Waha by Rotana,Riyadh ,450,Standard Twin Room,2,7.5,Good,6614,1,8.796943893541740,6.1092475827643700,35
+Novotel Yanbu Albahr,Yanbu  ,480,Superior Double Room,1,8.0,Good,2591,1,7.85979918056211,6.173786103901940,30
+Mövenpick Hotel City Star Jeddah,Jeddah ,440,Superior King Room,1,8.5,Good,1614,1,7.3864708488298900,6.0867747269123100,37
+"Holiday Inn Meydan, an IHG Hotel",Riyadh,285,Standard Room,1,7.6,Good,2406,1,7.785720896534620,5.652489180268650,28
+"Holiday Inn Riyadh Al Qasr, an IHG Hotel",Riyadh,375,Standard Room,2,7.2,Good,4162,1,8.33375100695358,5.926926025970410,40
+Dar Al Asalah Hotel-Apartments,Hotat bani tamim  ,200,One-Bedroom Apartment,1,7.8,Good,55,1,4.007333185232470,5.298317366548040,28
+Four Points by Sheraton Makkah Al Naseem,Makkah  ,149,King Room,1,8.5,Good,13389,1,9.50218875329738,5.003946305945460,28
+أجنحة سالين - للوحدات السكنية المفروشة,As Suwayfilah,99,Double Room with Private Bathroom,1,5.9,Very good,53,1,3.970291913552120,4.59511985013459,35
+رمال الجزيره,Taif  ,170,One-Bedroom Apartment,1,6.3,Very good,153,1,5.030437921392440,5.135798437050260,29
+M Hotel Makkah by Millennium,Makkah  ,120,Standard Twin Room,2,7.8,Good,5301,1,8.575650760987810,4.787491742782050,35
+Carawan Hotel Jeddah - Al Naeem Near Al Danube Market in Madina Road,Jeddah ,270,Standard Twin Room,2,8.0,Good,1124,1,7.024649030453640,5.598421958998380,30
+نظرة للشقق الفندقية,Al Khobar,436,One-Bedroom Apartment,2,7.9,Good,10,1,2.302585092994050,6.077642243349030,37
+Riyadh Marriott Hotel,Riyadh  ,425,"Guest Room, 1 King",1,7.6,Good,895,1,6.796823718274860,6.052089168924420,28
+Novotel Suites Riyadh Olaya,Riyadh ,400,Junior King Suite,1,7.2,Good,1558,1,7.351158226430690,5.991464547107980,40
+"Holiday Inn Riyadh Izdihar, an IHG Hotel",Riyadh ,325,Standard Double Room - Non-Smoking,1,7.8,Good,1487,1,7.304515946460160,5.783825182329740,28
+Hyatt House Jeddah Sari Street,Jeddah,425,Twin Studio,2,8.4,Good,2287,1,7.734996194022780,6.052089168924420,28
+Sheraton Riyadh Hotel & Towers,Riyadh ,495,"Classic Room, Guest room, 1 Queen",1,8.0,Good,849,1,6.744059186311350,6.20455776256869,35
+Executives Hotel - Olaya,Riyadh,473,Standard King Room,1,7.9,Good,5475,1,8.607947554684700,6.159095388491930,29
+Etlalet Al-Sharm Apartments,Yanbu  ,450,Two-Bedroom Apartment,2,7.8,Good,209,1,5.342334251964810,6.1092475827643700,55
+Lafontaine Jeddah Hotel,Jeddah  ,189,Deluxe Twin Room,2,6.8,Very good,1210,1,7.098375638590790,5.241747015059640,30
+Jabal Omar Hyatt Regency Makkah,Makkah ,600,Twin Room,2,8.4,Good,20622,1,9.93411374607789,6.396929655216150,37
+Lara Al Jawf Hotel Apartments,Arar  ,158,Standard Apartment,2,7.9,Good,283,1,5.645446897643240,5.062595033026970,28
+Golden Tulip Buraidah Al Qassim,Buraydah  ,405,Standard Twin Room,2,7.5,Good,1182,1,7.074963197966040,6.003887067106540,40
+Ibis Jeddah Malik Road,Jeddah,289,Standard Twin Room,2,7.9,Good,2579,1,7.8551570058813400,5.666426688112430,28
+Centro Salama Jeddah by Rotana,Jeddah ,346,Queen Room,1,7.9,Good,3441,1,8.14351740579748,5.846438775057730,28
+"Crowne Plaza Madinah, an IHG Hotel",Madinah,345,Standard Room,1,8.1,Good,3669,1,8.207674424355280,5.84354441703136,35
+JEDDAH PALACE,Jeddah  ,150,Deluxe King Room,1,6.9,Very good,390,1,5.966146739123690,5.0106352940962600,29
+Tulip Inn Al Dar Rawafed,Madinah,280,King Room with City View,1,7.9,Good,2227,1,7.708410667257370,5.634789603169250,35
+"Holiday Inn Jeddah Al Salam, an IHG Hotel",Jeddah  ,301,Leisure King Room with Pool View - Smoking,1,7.4,Good,1913,1,7.556427969440250,5.707110264748880,30
+Seven Garden's Hotel,Taif  ,365,King Studio,1,9.4,Superb,1135,1,7.034387929915500,5.8998973535824900,37
+Glamour Inn جلامور ان,Jeddah,200,Budget Double Room,1,7.0,Good,223,1,5.407171771460120,5.298317366548040,28
+Hayatt International1,Madinah,180,Economy Double Room,2,6.6,Very good,808,1,6.694562058521100,5.19295685089021,40
+Le Meridien Towers Makkah,Makkah ,130,"Diplomatic Room, Twin/Single Beds",2,7.5,Good,4137,1,8.327726166461410,4.867534450455580,28
+Novotel Jeddah Tahlia,Jeddah,396,Superior Double Room with Sofa Bed,1,8.0,Good,2787,1,7.932721027481950,5.981414211254480,28
+"Assila, a Luxury Collection Hotel, Jeddah",Jeddah,950,"Deluxe Guest Room, 1 King, City View",1,8.9,Fabulous,789,1,6.670766320845870,6.856461984594590,35
+M Hotel Al Dana Makkah by Millennium,Makkah ,136,Standard Double Room,1,8.5,Good,1900,1,7.549609165154530,4.912654885736050,29
+Aronani Hotel,Hail ,290,Standard  Room,2,6.9,Very good,914,1,6.81783057145415,5.66988092298052,35
+Nights Jeddah Hotel,Jeddah ,240,Standard King Room,1,7.5,Good,3166,1,8.060224240440960,5.480638923341990,30
+Golden Dune Hotel & Suite,Riyadh  ,359,Superior Double Room,1,8.1,Good,3176,1,8.063377822367030,5.883322388488280,37
+Snood Al Azama Hotel,Makkah  ,85,Double or Twin Room,2,7.3,Good,2776,1,7.9287663216267000,4.442651256490320,28
+Park Inn by Radisson Jeddah Madinah Road,Jeddah,414,Standard Room,1,8.5,Good,1455,1,7.282761179605590,6.025865973825310,40
+Rose White Hotel,Jeddah,325,Double Room,1,8.2,Good,444,1,6.095824562432230,5.783825182329740,28
+Golden Dream Hotel,Khamis Mushayt  ,340,Standard Double Room,1,8.1,Good,366,1,5.902633333401370,5.8289456176102100,28
+"Burj Rafal Riyadh, a Marriott International Hotel",Riyadh  ,1000,"Deluxe, Guest room, 1 King, City view",1,7.9,Good,4620,1,8.438149984075780,6.907755278982140,35
+Patto Suites,Al Baha ,180,Standard Apartment,1,6.7,Very good,1165,1,7.060476365999800,5.19295685089021,29
+"The Ritz-Carlton, Riyadh",Riyadh  ,1400,Deluxe Guest Room With Twin Beds,1,8.6,Fabulous,3335,1,8.112227958349720,7.24422751560335,35
+Dabab Hotel By Warwick,Riyadh ,450,Junior Suite,1,7.5,Good,2881,1,7.9658927350845300,6.1092475827643700,30
+Adagio Jeddah City Center,Jeddah ,349,Double Studio,1,8.4,Good,166,1,5.111987788356540,5.855071922202430,37
+Sukna Almosafer,Unayzah,140,Double Room,1,6.8,Very good,251,1,5.5254529391317800,4.941642422609300,28
+Ramada by Wyndham Hotel Riyadh,Riyadh  ,330,Classic King Room - Smoking,1,7.2,Good,1800,1,7.495541943884260,5.799092654460530,40
+Snood Al salam,Makkah  ,105,Quadruple Room with Bathroom,4,7.7,Good,1976,1,7.588829878307810,4.653960350157520,28
+Makarem Umm Al Qura Hotel,Makkah  ,175,Deluxe Twin Room,2,7.7,Good,6673,1,8.805824812903610,5.1647859739235100,28
+Hilton Riyadh Hotel & Residences,Riyadh  ,750,King Guest Room - Accessible,1,7.5,Good,10004,1,9.21074029199751,6.620073206530360,35
+Hilton Garden Inn Riyadh Olaya,Riyadh ,325,Twin Room Plus,2,7.2,Good,590,1,6.380122536899770,5.783825182329740,29
+فندق قمر جدة Qamar Hotel Jeddah,Jeddah,441,Standard Double Room,2,8.6,Fabulous,207,1,5.332718793265370,6.089044875446850,35
+Taiba Madinah Hotel,Madinah,360,"Superior Room Twin bed, City View",1,8.0,Good,1292,1,7.163946684342550,5.886104031450160,30
+Dist Inn Aparthotel,Hail,480,Penthouse Apartment,1,7.2,Good,816,1,6.704414354964110,6.173786103901940,37
+Elaf Al Mashaer Hotel Makkah,Makkah  ,190,transient single room city view,1,7.5,Good,3944,1,8.279950715722530,5.247024072160490,28
+Shada Hotel Al Shati,Jeddah,572,King Junior Room,1,8.8,Fabulous,1369,1,7.221835825288450,6.349138991379800,40
+DoubleTree by Hilton Hotel Riyadh - Al Muroj Business Gate,Riyadh ,525,King Guest Room,1,7.7,Good,3339,1,8.113426639943650,6.263398262591620,28
+Lamar Ajyad Hotel 2 - Tower B,Makkah  ,131,Deluxe King Room,1,7.8,Good,2571,1,7.852050207265890,4.875197323201150,28
+Wakan Kinan,Jeddah,318,Suite,3,7.6,Good,664,1,6.498282149476430,5.762051382780180,35
+Benzart Hotel Apartments,Ad Dawadimi,260,Deluxe Two-Bedroom Apartment,3,8.5,Good,254,1,5.537334267018540,5.560681631015530,29
+"Prime Hotel - Jeddah, Al Hamra",Jeddah ,350,Junior Suite,1,8.3,Good,4858,1,8.488382109562120,5.857933154483460,35
+Centro Shaheen Jeddah by Rotana,Jeddah,307,Queen Room,1,7.9,Good,3416,1,8.13622555490846,5.726847747587200,30
+Lamar Ajyad Hotel,Makkah,145,Deluxe King Room,1,7.8,Good,2725,1,7.9102237070973400,4.976733742420570,37
+Centro Olaya by Rotana,Riyadh ,490,Queen Room,1,7.9,Good,4132,1,8.326516830239530,6.194405391104670,28
+"Marriott Executive Apartments Riyadh, Convention Center",Riyadh  ,950,One-Bedroom Apartment,1,8.2,Good,1112,1,7.013915474810530,6.856461984594590,40
+VERTA Hotel,Jeddah,405,Executive Suite,1,7.9,Good,1113,1,7.014814351275550,6.003887067106540,28
+Holiday Suites Al Aziziah,Makkah,220,Deluxe Twin Room,2,8.1,Good,10838,1,9.29081375612606,5.393627546352360,28
+Motiara Hotel - La Valle Mall,Riyadh,490,Deluxe King Suite,1,8.1,Good,665,1,6.499787040655850,6.194405391104670,35
+Seven Garden's Palace,Taif,314,Deluxe Room,1,9.3,Superb,875,1,6.774223886357610,5.749392985908250,29
+Ramada by Wyndham Continental Jeddah,Jeddah,350,1 King Bed Superior Room,1,7.9,Good,1633,1,7.398174092970470,5.857933154483460,35
+Le Meridien Makkah,Makkah,330,"Twin Haram View, Guest room, 2 Twin/Single Bed(s), City view",2,7.8,Good,5050,1,8.527143522269410,5.799092654460530,30
+Hyatt Place Riyadh Sulaimania,Riyadh,500,King Room,1,8.6,Fabulous,1196,1,7.086737934510580,6.214608098422190,37
+Marina Hotel,Rayyis,500,Two-Bedroom Apartment,3,8.3,Good,360,1,5.886104031450160,6.214608098422190,28
+Signature Hotel,Jeddah,282,King Room,1,8.8,Fabulous,136,1,4.912654885736050,5.641907070938110,40
+Shada Hotel Salama,Jeddah,401,Standard Queen Room,1,8.9,Fabulous,4798,1,8.47595444339964,5.993961427306570,28
+Marriott Riyadh Diplomatic Quarter,Riyadh,1150,"Deluxe Room, Guest room, 1 King",1,8.4,Good,284,1,5.648974238161210,7.047517221357300,28
+Mövenpick Hotel Jeddah,Jeddah ,333,Classic King Room,1,7.8,Good,3848,1,8.255308811785600,5.808142489980440,35
+Al Waha Palace Hotel,Riyadh ,413,Deluxe King Room,1,7.9,Good,1995,1,7.598399329323960,6.023447592961030,29
+Radisson Blu Hotel Riyadh Qurtuba,Riyadh,650,Standard Room,1,7.9,Good,413,1,6.023447592961030,6.476972362889680,35
+Millennium Makkah Al Naseem,Makkah,143,Standard King Room,1,8.2,Good,5424,1,8.598588829620230,4.962844630259910,30
+Swiss Spirit Hotel & Suites Taif,Taif,179,Large Double Room,1,7.3,Good,776,1,6.654152520183220,5.187385805840760,37
+Grand Plaza Gulf Hotel - Riyadh,Riyadh,800,Executive Suite,1,8.0,Good,3024,1,8.014335737299420,6.684611727667930,28
+Broad ApartHotel,Taif ,759,VIP Suite,1,8.6,Fabulous,781,1,6.660575149839690,6.63200177739563,40
+Golden Tulip Riyadh,Riyadh,450,Classic Rooms King,1,9.3,Superb,146,1,4.983606621708340,6.1092475827643700,28
+Sanam Hotel Suites - Riyadh,Riyadh ,299,Junior Suite,1,7.4,Good,2315,1,7.747164966520340,5.700443573390690,28
+القصر المميز خميس مشيط,Khamis Mushayt,134,Deluxe Double Studio,1,7.9,Good,281,1,5.638354669333750,4.897839799950910,35
+The Ritz-Carlton Jeddah,Jeddah  ,1575,"Deluxe Room, 2 Twin/Single Bed(s), City View",2,9.0,Superb,1340,1,7.200424892944960,7.362010551259730,29
+Al Mutlaq Hotel Riyadh,Riyadh  ,270,Single Room,1,7.8,Good,551,1,6.311734809152920,5.598421958998380,35
+Staytion First - Al Zahra,Jeddah,200,Studio Apartment,1,8.8,Fabulous,972,1,6.879355804460440,5.298317366548040,30
+InterContinental Al Jubail Resort,Al Jubail,899,Standard Double or Twin Room,2,8.2,Good,1968,1,7.584773077612200,6.80128303447162,37
+Riyadh Airport Marriott Hotel,Riyadh,1200,Deluxe Guest Room with Two Double Beds and Courtyard View,1,8.0,Good,1723,1,7.45182223652793,7.090076835776090,28
+شاطئ الحياة للأجنحة الفندقية,Jeddah ,242,Studio,1,8.1,Good,380,1,5.940171252720430,5.488937726156690,40
+فندق زوايا الماسية,Madinah,179,Studio,1,8.7,Fabulous,209,1,5.342334251964810,5.187385805840760,28
+فندق فرج المدينه FARAJ ALMADINA HOTEL,Madinah,187,Budget Double Room,1,9.0,Superb,134,1,4.897839799950910,5.231108616854590,28
+WA Hotel,Jeddah,1320,Deluxe Family Room,2,9.5,Exceptional,15,1,2.70805020110221,7.1853870155804200,35
+"Crowne Plaza Hotel Riyadh Minhal, an IHG Hotel",Riyadh,445,Deluxe King Room - Smoking,1,8.7,Fabulous,1316,1,7.182352111885260,6.09807428216624,29
+Loalat Al Rowdah Family,Jeddah,320,Two-Bedroom Apartment,4,7.8,Good,463,1,6.137727054086230,5.768320995793770,35
+Almasem Luxury Hotel suite 6,Riyadh  ,259,Studio,1,7.6,Good,494,1,6.202535517187920,5.556828061699540,30
+Sheraton Makkah Jabal Al Kaaba Hotel,Makkah  ,210,"Traditional Double City V, Guest room, 2 Twin/Single Bed(s)",2,7.6,Good,1641,1,7.403061091090090,5.3471075307174700,37
+"Al Faisaliah Hotel, Riyadh",Riyadh ,1695,Superior Room King,1,8.2,Good,1398,1,7.242797922793760,7.43543801981455,28
+Rotana Residence Apartments,Jeddah ,252,One-Bedroom Apartment,2,7.6,Good,635,1,6.453624998892690,5.529429087511420,40
+Narcissus Hotel and SPA Riyadh,Riyadh  ,1100,Double Room,1,8.6,Fabulous,3439,1,8.142936010432270,7.003065458786460,28
+Kyona Gold-Obhur,Jeddah  ,522,One-Bedroom Apartment,1,8.7,Fabulous,29,1,3.367295829986470,6.257667587882640,28
+Braira Hotel-Olaya,Riyadh  ,522,Superior Double Room,1,8.6,Fabulous,3365,1,8.121183242078830,6.257667587882640,35
+الفخامة للشقق الفندقية,Madinah,133,Deluxe Double Room,1,7.7,Good,80,1,4.382026634673880,4.890349128221750,29
+South Hotel Suites,Khamis Mushayt,450,Deluxe Suite,3,8.9,Fabulous,351,1,5.860786223465870,6.1092475827643700,35
+Al Waleed Tower Hotel,Makkah,118,Double Room,1,8.2,Good,2810,1,7.940939762327790,4.770684624465670,30
+Habitat Hotel All Suites - Jeddah,Jeddah,475,Junior Suite with Twin Bed,3,8.0,Good,2220,1,7.705262474866330,6.163314804034640,44
+Grand Silverton Hotel,Al Khobar,450,Superior Double Room,1,8.2,Good,2568,1,7.850882664809850,6.1092475827643700,28
+"Dar Al Tawhid Intercontinental Makkah, an IHG Hotel",Makkah,690,Standard Room,2,8.8,Fabulous,5319,1,8.579040594742320,6.536691597591310,40
+RAND by Wandalus (Formerly Coral Riyadh Suliemaniah),Riyadh ,400,Deluxe Double Room,1,7.6,Good,597,1,6.391917113392600,5.991464547107980,28
+Gardens View,Taif,243,One-Bedroom Apartment,1,7.3,Good,318,1,5.762051382780180,5.493061443340550,28
+Al Ramla Al Hamra Hotel,Taif,254,One-Bedroom Suite,1,8.4,Good,592,1,6.3835066348840100,5.537334267018540,35
+Al Rahaa Furnished Units,Abha,169,One-Bedroom Apartment,1,7.8,Good,1378,1,7.228388451573600,5.1298987149230700,29
+Mandaren Suites,Taif,400,Two-Bedroom Apartment,3,8.7,Fabulous,251,1,5.5254529391317800,5.991464547107980,35
+Al Rawda Jewel Apartment Hotel,Jeddah ,245,Deluxe Apartment,1,8.0,Good,512,1,6.238324625039510,5.501258210544730,30
+Dior Inn Hotel,Jeddah,360,Superior King Room,1,9.0,Superb,1411,1,7.252053951852810,5.886104031450160,37
+Elite Suites Hotel - Al sahafah,Riyadh,450,One-Bedroom Apartment,1,7.9,Good,569,1,6.343880434126330,6.1092475827643700,28
+Nadra Furnished Apartments,Taif,300,Two-Bedroom Apartment,3,6.8,Very good,268,1,5.5909869805108600,5.703782474656200,40
+Narcissus Hotel and SPA Riyadh,Riyadh,1100,Double Room,1,8.6,Fabulous,3439,1,8.142936010432270,7.003065458786460,28
+Braira Hotel-Olaya,Riyadh ,522,Superior Double Room,1,8.6,Fabulous,3365,1,8.121183242078830,6.257667587882640,28
+Habitat Hotel All Suites - Jeddah,Jeddah  ,500,Junior Suite with Twin Bed,3,8.0,Good,2220,1,7.705262474866330,6.214608098422190,35
+Grand Silverton Hotel,Al Khobar ,450,Superior Double Room,1,8.2,Good,2568,1,7.850882664809850,6.1092475827643700,29
+Howard Johnson Dammam Hotel,Dammam,349,King Room with City View - Non-Smoking,1,7.7,Good,1868,1,7.532623618788790,5.855071922202430,35
+Dior Inn Hotel,Jeddah  ,360,Superior King Room,1,9.0,Superb,1411,1,7.252053951852810,5.886104031450160,30
+Elite Suites Hotel - Al sahafah,Riyadh  ,450,One-Bedroom Apartment,1,7.9,Good,569,1,6.343880434126330,6.1092475827643700,37
+Makkah Towers,Makkah  ,350,2 Single Guestroom City View,3,8.0,Good,6138,1,8.722254235179680,5.857933154483460,28
+Nadra Furnished Apartments,Taif  ,300,Two-Bedroom Apartment,3,6.8,Very good,268,1,5.5909869805108600,5.703782474656200,40
+"Al Ahsa InterContinental, an IHG Hotel",Al Hofuf,602,Deluxe King Room - Non-Smoking,1,8.1,Good,996,1,6.903747257584600,6.400257445308820,28
+Andalus Habitat Hotel,Jeddah,596,Studio with Sofa Bed,1,8.6,Fabulous,384,1,5.950642552587730,6.39024066706535,28
+Sadeem Hotel Suites2,Jeddah,449,Two-Bedroom Suite,3,8.3,Good,405,1,6.003887067106540,6.1070228877422500,35
+Iwan Alandalusia Al Ajaweed,Jeddah,230,Deluxe Double or Twin Room,2,7.8,Good,444,1,6.095824562432230,5.438079308923200,29
+Sea Club Resort(Families only),Dammam,1000,Three-Bedroom Chalet with Private Pool,5,7.3,Good,681,1,6.523562306149510,6.907755278982140,77
+Delmon Hotel Suites,Jeddah ,225,One-Bedroom Apartment,3,6.7,Very good,171,1,5.14166355650266,5.41610040220442,30
+Holiday Khaleej Hotel,Riyadh,495,Deluxe Double Room,2,8.2,Good,3642,1,8.200288260287550,6.20455776256869,37
+Le Meridien Medina,Madinah,320,"High Floor Standard King Bed, Sofa bed",1,7.9,Good,1798,1,7.494430215031570,5.768320995793770,28
+Nights Silence- Furnished Appartement By Kyan,Khamis Mushayt,235,Junior Suite,1,8.4,Good,731,1,6.594413459749780,5.459585514144160,40
+Dallah Taibah Hotel,Madinah,760,Executive Suite,1,9.2,Superb,6872,1,8.835210463664090,6.633318433280380,28
+الاريام للاجنحة الفندقية,Buraydah,350,Junior Suite,2,8.4,Good,207,1,5.332718793265370,5.857933154483460,28
+Elaf Jeddah Hotel - Red Sea Mall,Jeddah,600,Deluxe King Room,1,7.3,Good,3794,1,8.24117615049496,6.396929655216150,35
+Quiet Dreams - Quraysh Branch,Jeddah ,200,One-Bedroom Apartment,1,8.2,Good,749,1,6.618738983517220,5.298317366548040,29
+Sheraton Dammam Hotel & Convention Centre,Dammam ,515,"Classic Room, Guest room, 1 King, City view, Low floor",1,7.4,Good,1953,1,7.577121930876680,6.244166900663740,35
+Donatello Jeddah Hotel,Jeddah,440,Junior Suite,1,8.4,Good,387,1,5.958424693029780,6.0867747269123100,30
+Zwarah Hotel Suites,Jeddah,221,Studio (2 Adults),1,7.2,Good,218,1,5.384495062789090,5.3981627015177500,37
+Hayat Al Rose Hotel Appartment,Jeddah  ,203,Superior Double Room,1,8.3,Good,273,1,5.60947179518496,5.313205979041790,28
+Pinetree Suites Hail,Hail,291,Standard Suite,2,7.9,Good,466,1,6.144185634125650,5.673323267171490,40
+Swiss International Royal Hotel Riyadh,Riyadh,645,Executive Room,1,8.0,Good,1431,1,7.266128779556450,6.4692503167957700,37
+"voco - Riyadh, an IHG Hotel",Riyadh,630,Standard Room,1,8.3,Good,2254,1,7.720461694599720,6.4457198193855800,28
+شقق درر رامه 5,Riyadh,200,Studio,1,6.1,Very good,186,1,5.225746673713200,5.298317366548040,35
+Kempinski Al Othman Hotel Al Khobar,Al Khobar,797,Deluxe Twin Room,2,8.3,Good,4387,1,8.386400901166210,6.680854678790220,29
+Retaj Hotel Apartments,Riyadh,200,Deluxe Room,1,6.8,Very good,128,1,4.852030263919620,5.298317366548040,35
+Orian Hotel,Jeddah,190,Studio Apartment,1,7.8,Good,154,1,5.0369526024136300,5.247024072160490,30
+The First Tower Hotel,Al Jubail,189,Standard Studio,1,8.3,Good,201,1,5.303304908059080,5.241747015059640,37
+Aswar Hotel Suites Riyadh,Riyadh,563,Studio,1,8.5,Good,1463,1,7.288244401020120,6.333279628139690,28
+"InterContinental Riyadh, an IHG Hotel",Riyadh,716,Standard Room,1,7.8,Good,1265,1,7.142827401161620,6.573680166960650,36
+Ghalia Uhod,Madinah,270,One-Bedroom Apartment with Living,1,8.2,Good,1077,1,6.981934677156390,5.598421958998380,28
+Mövenpick Hotel Al Khobar,Al Khobar,900,Premium King Room,1,8.2,Good,2398,1,7.7823903355874600,6.802394763324310,28
+Hilton Suites Makkah,Makkah,475,King Room City View,1,8.8,Fabulous,7876,1,8.971575439759020,6.163314804034640,35
+The Venue Jeddah Corniche,Jeddah,739,Deluxe King Room with City View City Tower,1,7.6,Good,4725,1,8.460622839927840,6.6052979209482000,29
+Rose Palace Furnished Units,Abha,342,شقه من غرفتى نوم بدون صاله,3,8.1,Good,292,1,5.676753802268280,5.834810737062610,35
+سمر الماسيه للاجنحه الفندقيه الفاخره - حي الصفا بجدة,Jeddah,190,Family Studio,1,7.7,Good,37,1,3.6109179126442200,5.247024072160490,30
+أبها بارادايس - عوائل,Abha,380,One-Bedroom Chalet,1,8.5,Good,314,1,5.749392985908250,5.940171252720430,37
+Brand Al Qassim Hotel,Buraydah,540,Twin Room - Disability Access,2,8.9,Fabulous,261,1,5.564520407322690,6.29156913955832,28
+Mrakez Alarab Furnished Apartments 3,Jeddah,250,Two-Bedroom Apartment,3,7.9,Good,63,1,4.143134726391530,5.521460917862250,40
+Ascott Rafal Olaya Riyadh,Riyadh ,2257,Two-Bedroom Executive,2,7.2,Good,5072,1,8.531490496117060,7.721791776817540,28
+Fraser Suites Riyadh,Riyadh,1035,Executive One Bedroom Suite,1,7.9,Good,4110,1,8.32117830749028,6.942156705699470,28
+Adagio Aparthotel Jeddah Malik Road,Jeddah,570,One-Bedroom Apartment,1,8.2,Good,862,1,6.759255270663690,6.345636360828600,35
+Dist Inn Aparthotel 2,Hail ,200,Deluxe Studio,1,7.3,Good,169,1,5.1298987149230700,5.298317366548040,29
+Al Fahad Hotel Suites Al Tahliya,Jeddah,198,Budget Double Room,1,8.1,Good,649,1,6.47543271670409,5.288267030694540,35
+Ascott Tahlia Jeddah,Jeddah,473,Executive Studio,1,7.6,Good,4212,1,8.345692873253870,6.159095388491930,30
+Al Louloah Al Baraqah Furnished Apartments,Jeddah,176,Standard Single Room,1,8.5,Good,87,1,4.465908118654580,5.170483995038150,37
+"Habitat All Suites, Al Khobar",Al Khobar,950,Royal Suite,1,7.7,Good,3802,1,8.243282523048380,6.856461984594590,28
+Rahat Al Bal Furnished Units,Jeddah  ,204,Family Studio,2,8.2,Good,293,1,5.680172609017070,5.318119993844220,40
+Season Star Hotel Madinah فندق سيزون ستار المدينة,Madinah,280,Deluxe Twin Room,2,8.9,Fabulous,254,1,5.537334267018540,5.634789603169250,28
+Dara Hamra,Jeddah,520,Studio Apartment,1,8.7,Fabulous,1092,1,6.9957661563048500,6.253828811575470,28
+منازل الجميرة للشقق الفندقية,Jeddah,182,One-Bedroom Apartment,2,8.0,Good,43,1,3.7612001156935600,5.204006687076800,35
+E1 Hotel,Riyadh ,300,Deluxe Apartment,1,7.3,Good,97,1,4.574710978503380,5.703782474656200,29
+Makkah Hotel,Makkah,474,1 King Guestroom,1,8.7,Fabulous,4506,1,8.41316512099219,6.161207321695080,35
+منازل الساهر للوحدات السكنية فرع 2,Al Qunfudhah,250,One-Bedroom Apartment,2,7.0,Good,38,1,3.6375861597263900,5.521460917862250,30
+Dara Al Salam,Jeddah,467,Suite Studio,1,9.0,Superb,1438,1,7.271008538280990,6.1463292576689000,37
+Enwan Suites Hotel,Al Jubail,199,King Studio,1,8.3,Good,12,1,2.4849066497880000,5.293304824724490,28
+Orans Suites 4,Jeddah,413,Royal Studio,1,7.9,Good,287,1,5.659482215759620,6.023447592961030,40
+"InterContinental Al Khobar, an IHG Hotel",Al Khobar,1299,Standard King Room,1,8.4,Good,1131,1,7.030857476116120,7.1693500166706,28
+Casablanca Grand Hotel,Jeddah,1350,Executive Suite,2,9.0,Superb,3938,1,8.278428259199070,7.2078598714324800,28
+Mrakez Alarab Furnished Apartments 3,Jeddah ,250,Two-Bedroom Apartment,3,7.9,Good,63,1,4.143134726391530,5.521460917862250,35
+Ascott Rafal Olaya Riyadh,Riyadh,2144,Two-Bedroom Executive,2,7.2,Good,5072,1,8.531490496117060,7.670428522190690,29
+Fraser Suites Riyadh,Riyadh,983,Executive One Bedroom Suite,1,7.9,Good,4110,1,8.32117830749028,6.890609120147170,35
+Braira AL Wezarat,Riyadh,299,Superior Double Room,1,8.5,Good,2774,1,7.928045600874780,5.700443573390690,30
+Dist Inn Aparthotel 2,Hail,200,Deluxe Studio,1,7.3,Good,169,1,5.1298987149230700,5.298317366548040,37
+Ascott Tahlia Jeddah,Jeddah,449,Executive Studio,1,7.6,Good,4212,1,8.345692873253870,6.1070228877422500,28
+"Habitat All Suites, Al Khobar",Al Khobar,903,Royal Suite,1,7.7,Good,3802,1,8.243282523048380,6.805722553416990,40
+Rahat Al Bal Furnished Units,Jeddah,204,Family Studio,2,8.2,Good,293,1,5.680172609017070,5.318119993844220,28
+Al Balad Inn Corniche,Jeddah,333,Junior Suite,1,7.3,Good,582,1,6.366470447731440,5.808142489980440,28
+E1 Hotel,Riyadh,300,Deluxe Apartment,1,7.3,Good,97,1,4.574710978503380,5.703782474656200,35
+Makkah Hotel,Makkah,450,1 King Guestroom,1,8.7,Fabulous,4506,1,8.41316512099219,6.1092475827643700,29
+Madareem Crown Hotel,Riyadh,578,Standard Single Room,1,7.3,Good,645,1,6.4692503167957700,6.359573868672380,35
+"Park Hyatt Jeddah - Marina, Club and Spa",Jeddah,1500,King Room,1,8.0,Good,1527,1,7.3310603052186300,7.313220387090300,30
+شقق قصر العنوان الفندقية,Dammam,612,Junior Suite,1,9.1,Superb,248,1,5.5134287461649800,6.416732282512330,37
+Beach Time Villas Hotel - Family Villas,Jeddah,1458,Three-Bedroom Villa,5,7.9,Good,675,1,6.51471269087253,7.284820912568600,28
+Al Balad Inn Al Mishkat,Jeddah,268,Deluxe Apartment,1,6.6,Very good,86,1,4.454347296253510,5.5909869805108600,40
+Waldorf Astoria Jeddah - Qasr Al Sharq,Jeddah,1340,Qasr King Room,2,9.1,Superb,289,1,5.666426688112430,7.200424892944960,28
+Marriott Executive Apartments Madinah,Al Madinah,584,"Studio Apartment, 2 Double, Sofa bed, Garden view",3,9.0,Superb,895,1,6.796823718274860,6.369900982828230,28
+Mnazel Jawraq,Riyadh,1665,Villa with Private Pool,4,8.8,Fabulous,58,1,4.060443010546420,7.417580402414540,35
+Alreef Diamond Villas,Taif,1500,Standard Villa,1,9.0,Superb,101,1,4.61512051684126,7.313220387090300,29
+Rolana Furnished Apartments,Jeddah,189,Deluxe Studio,1,7.5,Good,40,1,3.6888794541139400,5.241747015059640,35
+Kadi Hotel,Najran,177,One-Bedroom Suite,2,7.9,Good,43,1,3.7612001156935600,5.176149732573830,30
+Tanuma Aram Hospitality - Hotel Apartments,Tanomah,306,Apartment with Mountain View,1,8.2,Good,1005,1,6.912742820493180,5.723585101952380,37
+Al Meshan Hotel,Madinah,120,Double or Twin Room with Bathroom,1,6.8,Very good,55,1,4.007333185232470,4.787491742782050,28
+فندق الكامل,Makkah,250,Double or Twin Room,1,8.6,Fabulous,52,1,3.9512437185814300,5.521460917862250,40
+فندق برج الإبريز,Baish,238,King Room,1,7.7,Good,186,1,5.225746673713200,5.472270673671480,28
+Raoum Inn Shaqra,Shaqra,180,Deluxe Junior Suite,1,6.6,Very good,188,1,5.236441962829950,5.19295685089021,28
+Al Lord Hotel,Hafr Al Baten,200,Studio Apartment,1,7.6,Good,89,1,4.48863636973214,5.298317366548040,35
+Khabti Grand Hotel,Bishah,420,Standard Double Room,1,8.3,Good,1310,1,7.177782416195200,6.040254711277410,29
+Golden Sea Hotel,Obhor,219,Deluxe Single Room,1,8.2,Good,171,1,5.14166355650266,5.389071729816500,35
+Central Park Hotel Bisha فندق سنترال بارك بيشة,Khamis Mushayt,309,Superior King Room,1,8.2,Good,195,1,5.272999558563750,5.733341276897750,30
+Desert Rose Motel,Al Ghat,150,Family Room with Private Bathroom,1,0.0,Very good,0,1,-inf,5.0106352940962600,37
+Golden Dune Hotel,Turayf ,180,Superior King Room,1,9.0,Superb,1733,1,7.457609289715610,5.19295685089021,28
+قصر البالود 2,Riyadh ,220,Three-Bedroom Suite,5,8.9,Fabulous,228,1,5.429345628954440,5.393627546352360,80
+Lavana Furnished Apartments Jeddah,Riyadh,500,Family Studio,3,9.0,Superb,48,1,3.871201010907890,6.214608098422190,28
+Nakheel Moon Aparthotel,Riyadh,230,Deluxe Room,1,6.7,Very good,51,1,3.9318256327243300,5.438079308923200,28
+زيد للأجنحة الفندقية - Zaid Hotel Suites,Turayf,172,Deluxe Double Room,2,8.9,Fabulous,41,1,3.713572066704310,5.147494476813450,35
+Le Park Concord Hotel,Riyadh,185,Deluxe Single Room,1,9.0,Superb,423,1,6.0473721790462800,5.220355825078320,29
+Almudawah Hotel,Turayf,160,Superior Single Room,1,8.3,Good,119,1,4.77912349311153,5.075173815233830,35
+اجنحة ياقوتة المدينة,Madinah,250,King Studio,1,9.2,Superb,6,1,1.791759469228060,5.521460917862250,30
+Mohamadia Al Zahra Hotel,Madinah,130,Superior King Room,1,7.5,Good,1407,1,7.249215057114390,4.867534450455580,37
+ربوة الصفوة Rabwat Al-Safwah 8,Madinah,105,King Room,1,7.6,Good,14,1,2.6390573296152600,4.653960350157520,28
+MENA AL DIYAR 114,Riyadh ,55,Small Single Room,1,6.3,Very good,290,1,5.66988092298052,4.007333185232470,40
+Sharurah Plaza Hotel,Sharurah,200,One-Bedroom Apartment,3,8.7,Fabulous,294,1,5.683579767338680,5.298317366548040,28
+Ladera Hotel Tanomah,Tanomah,300,Studio,1,7.2,Good,163,1,5.093750200806760,5.703782474656200,28
+Al Jahwah hotel by AL BALAD INN,Asir,200,Deluxe Double Room (2 Adults + 1 Child),1,8.1,Good,398,1,5.986452005284440,5.298317366548040,35
+Al Andlus Palace 2 Hotel Kurban فندق قصر الاندلس 2 قربان,Madinah,160,Large Double Room,2,7.9,Good,58,1,4.060443010546420,5.075173815233830,29
+Qemam Al Safwah Grand Hotel,Rafha,135,Double Room,1,5.9,Very good,19,1,2.9444389791664400,4.90527477843843,35
+Rabigh Park Hotel,Rabigh,288,Deluxe Double Room,1,8.0,Good,530,1,6.272877006546170,5.662960480135950,30
+منتجع جيدا بارك,Riyadh,500,Cottage with Garden View,3,8.7,Fabulous,361,1,5.8888779583328800,6.214608098422190,37
+Kyona Purple -Al Qurayat,Jeddah,140,Studio,2,8.4,Good,77,1,4.343805421853680,4.941642422609300,28
+Milan Hotel,Makkah,285,One-Bedroom Apartment,1,7.6,Good,15,1,2.70805020110221,5.652489180268650,40
+Al Rawda Al Aqeeq Hotel,Madinah,161,Standard Twin Room,2,7.2,Good,3503,1,8.161375023197490,5.081404364984460,28
+Jawharat Al Amaken Hotel,Tayma,230,One-Bedroom Apartment,1,8.7,Fabulous,160,1,5.075173815233830,5.438079308923200,28
+manzel aram 105,Riyadh,55,Small Single Room,1,5.7,Very good,701,1,6.55250788703459,4.007333185232470,35
+فندق جولدن العرين,Abha ,154,Budget Double Room,1,9.9,Exceptional,127,1,4.844187086458590,5.0369526024136300,29
+فندق العروبة,Riyadh,89,King Studio,1,6.1,Very good,2407,1,7.786136437783070,4.48863636973214,35
+Faifa Hotel,Fayfa,1210,Superior Suite,1,7.0,Good,302,1,5.71042701737487,7.098375638590790,30
+العييري للوحدات المفروشة الباحة3,Al Baha,110,Double Room with Private Bathroom,2,3.7,Very good,72,1,4.276666119016060,4.700480365792420,37
+Anwar Al Zahraa Hotel,Madinah,100,Double Room,2,7.3,Good,259,1,5.556828061699540,4.605170185988090,28
+OYO 242 Al Ahlam Resort Al Leith,Al Lith,385,Standard Studio Double,1,6.5,Very good,333,1,5.808142489980440,5.953243334287790,40
+Ebreez Hotel,Jeddah,239,Deluxe King Room,1,7.5,Good,2247,1,7.717351272185330,5.476463551931510,28
+Hawadah Hotel,Jeddah,245,Double Room with Sea View,2,7.3,Good,460,1,6.131226489483140,5.501258210544730,40
+شدون للوحدات السكنية,Buraydah,144,Economy Double Room,1,6.9,Very good,170,1,5.135798437050260,4.969813299576000,35
+فندق رحابة Rahabah Hotel,Madinah,158,Budget Double Room,1,7.2,Good,13,1,2.5649493574615400,5.062595033026970,29
+Acacia Aparthotel,Jeddah,180,Standard Studio,2,7.4,Good,1387,1,7.234898420314830,5.19295685089021,35
+Al Muhaidb Residence Al Dawadmi,Riyadh,350,Two-Bedroom Apartment,3,8.7,Fabulous,663,1,6.4967749901858600,5.857933154483460,48
+Rayat Alshalal Hotel 2,Hafr Al Baten,315,Deluxe Double or Twin Room,1,8.2,Good,91,1,4.51085950651685,5.752572638825630,37
+Rabigh Tower Hotel,Rabigh,140,Double Room,1,5.5,Very good,210,1,5.3471075307174700,4.941642422609300,28
+دالين جدة,Jeddah ,160,Studio,1,0.0,Very good,0,1,-inf,5.075173815233830,40
+الديوان للوحدات السكنية,Makkah ,130,One-Bedroom Apartment,1,5.1,Very good,62,1,4.127134385045090,4.867534450455580,28
+Plaza Business Hotel,Riyadh,231,Standard Double or Twin Room,2,6.6,Very good,3576,1,8.182000136293410,5.442417710521790,28
+ارياف القهيب للشقق المفروشه بالطايف,Taif,115,One-Bedroom Apartment,1,0.0,Very good,0,1,-inf,4.74493212836325,35
+القصر المميز للوحدات السكنية,Riyadh,107,One-Bedroom Apartment,1,6.5,Very good,13,1,2.5649493574615400,4.672828834461910,29
+ASTER HOTEL,Jeddah ,285,Deluxe Double Room with Side Sea View,1,7.6,Good,1401,1,7.244941546337010,5.652489180268650,35
+ريف الهجرة للوحدات السكنية,Al ‘Awālī,122,Deluxe Single Room,1,7.4,Good,135,1,4.90527477843843,4.804021044733260,30
+فندق سبال,Madinah,140,Double Room,2,6.4,Very good,227,1,5.424950017481400,4.941642422609300,37
+Sama Inn Hotel,Riyadh,254,Superior Single Room,1,7.8,Good,310,1,5.736572297479190,5.537334267018540,28
+Al Kiswah Towers Hotel,Makkah,99,Standard Double or Twin Room,2,8.2,Good,5241,1,8.564267598802170,4.59511985013459,40
+دوفيل ان,Şabyā,350,Deluxe King Room,1,8.3,Good,72,1,4.276666119016060,5.857933154483460,28
+رواح للوحدات السكنية,Jeddah,190,One-Bedroom Apartment,2,7.5,Good,180,1,5.19295685089021,5.247024072160490,28
+Saif Boutique Hotel International,Al Qassim ,315,Classic King Room,1,7.6,Good,455,1,6.12029741895095,5.752572638825630,35
+استراحة قطوف الورد بالطايف,Taif,500,Deluxe Room (2 Adults + 1 Child),1,0.0,Very good,0,1,-inf,6.214608098422190,29
+شقق بيات العالية بوادي بن هشبل Bayat Al aliah Apartments in Wadi bin Hashbal,Khamis Mushayt,130,One-Bedroom Apartment,4,8.9,Fabulous,21,1,3.044522437723420,4.867534450455580,35
+سرو للوحدات السكنية,Al Namas,250,One-Bedroom Villa,1,7.6,Good,425,1,6.052089168924420,5.521460917862250,30
+Mena Andalusia Riyadh,Riyadh ,213,Standard Room Twin,1,7.2,Good,3259,1,8.089175678837560,5.3612921657094300,37
+Bhadur Resort Jeddah,Obhor,600,Standard  Room,1,5.7,Very good,852,1,6.747586526829320,6.396929655216150,28
+Quartz Executive كوارتز التنفيذية,Abha,322,Superior Suite,2,8.5,Good,87,1,4.465908118654580,5.7745515455444100,40
+رواسل,Jeddah,208,Two-Bedroom Apartment,4,8.1,Good,79,1,4.3694478524670200,5.337538079701320,56
+Almuhaidb Residence Al Jubail,Al Jubail,270,Standard King Room,1,7.7,Good,1595,1,7.374629015218950,5.598421958998380,28
+فندق العرب إن,Riyadh,80,Budget Triple Room,3,7.3,Good,33,1,3.4965075614664800,4.382026634673880,59
+Royal El Naser Hotel,Al Khobar,200,Budget Single Room,1,5.4,Very good,374,1,5.924255797414530,5.298317366548040,29
+Karam Hiraa Hotel Apartments - كرم حراء للشقق الفندقية,Jeddah,215,Deluxe King Studio,1,8.0,Good,863,1,6.760414691083430,5.3706380281276600,35
+Crown Rose Hotel,Riyadh,360,Superior King Room,1,7.8,Good,1139,1,7.037905963447180,5.886104031450160,30
+دار اجواء 2,Riyadh,179,One-Bedroom Apartment,1,0.0,Very good,0,1,-inf,5.187385805840760,37
+بسمة,Abha  ,119,Two-Bedroom Apartment,2,5.5,Very good,24,1,3.1780538303479500,4.77912349311153,60
+Aber Al Takhassusi,Riyadh,495,Deluxe King Room,1,8.5,Good,535,1,6.282266746896010,6.20455776256869,40
+فندق العاصمة,Riyadh,105,Double Room,1,6.0,Very good,44,1,3.784189633918260,4.653960350157520,28
+Rollins Hotel,Buraydah,279,King Suite,1,8.0,Good,2014,1,7.607878073278510,5.631211781821370,28
+فندق حديقة القصور,Jazan,212,Economy Double Room,1,8.0,Good,71,1,4.2626798770413200,5.356586274672010,35
+Obaer Hotel,Riyadh,350,Deluxe King Room,1,7.3,Good,2799,1,7.937017489515450,5.857933154483460,29
+وارفة للشقق المفروشة,Jeddah ,170,Studio,1,7.1,Good,406,1,6.0063531596017300,5.135798437050260,35
+لوس للشقق المفروشة,Riyadh,150,Studio,1,6.1,Very good,65,1,4.174387269895640,5.0106352940962600,30
+A H Hotel,Jeddah,158,Studio,1,8.1,Good,2121,1,7.659642954564680,5.062595033026970,37
+سرور,Riyadh ,55,Single Room,1,0.0,Very good,0,1,-inf,4.007333185232470,28
+Al Nabarees Al Masi Hotel,Jeddah,106,Deluxe Twin Room,2,6.5,Very good,1693,1,7.4342573821331400,4.663439094112070,40
+Golden Tulip Hail,Hail,318,Executive Room,1,6.5,Very good,1797,1,7.493873886783560,5.762051382780180,28
+Adwaa Rafa,Al Kharj,113,Deluxe Room (2 Adults + 1 Child),1,7.5,Good,659,1,6.490723534502510,4.727387818712340,28
+ريف عسير للشقق المفروشة,Khamis Mushayt,123,Single Room,1,7.5,Good,34,1,3.5263605246161600,4.812184355372420,35
+Orchida Turaif Hotel 1,Turayf,125,Twin Room,2,6.0,Very good,23,1,3.1354942159291500,4.8283137373023000,29
+Diamond Suites,Madinah,134,Economy Double Room,1,7.1,Good,144,1,4.969813299576000,4.897839799950910,35
+Areen ApartHotel,Riyadh,203,Deluxe Double Room,1,7.4,Good,521,1,6.255750041753370,5.313205979041790,30
+Jinan Al Nakhil Apartment Hotel,Riyadh,193,Superior Suite,1,8.6,Fabulous,117,1,4.762173934797760,5.262690188904890,37
+The District Hotel Najran,Najran,310,Deluxe Double Room with City View,1,8.4,Good,993,1,6.900730664045170,5.736572297479190,28
+سفن سيز 2 للوحدات السكينه,Jeddah  ,162,One-Bedroom Apartment,3,5.5,Very good,236,1,5.4638318050256100,5.087596335232380,40
+Freesia Hotel,Jeddah  ,270,One-Bedroom Suite,1,7.8,Good,59,1,4.07753744390572,5.598421958998380,28
+Pearl of Vision Hotel,Jeddah  ,153,Standard Single Room,1,8.5,Good,134,1,4.897839799950910,5.030437921392440,28
+Raoum Inn - Hawtah Bani Tamim,Riyadh,165,One-Bedroom Suite,1,6.4,Very good,126,1,4.836281906951480,5.10594547390058,35
+Safa Albawadi,Jeddah  ,115,Twin Room,2,7.6,Good,773,1,6.650279048587420,4.74493212836325,29
+Aber Hotel Unayzah,Unayzah  ,285,Twin Room,2,8.4,Good,648,1,6.473890696352270,5.652489180268650,35
+Golden Tulip Al Nasiriah Hotel,Riyadh,291,Standard King Room,1,6.6,Very good,3521,1,8.166500319155050,5.673323267171490,30
+Al Rahden Hotel,Riyadh,594,Deluxe Double or Twin Room with Balcony,2,8.5,Good,660,1,6.492239835020470,6.386879319362650,37
+Toot House,Taif,250,One-Bedroom Apartment,1,8.2,Good,1933,1,7.566828479208330,5.521460917862250,28
+Hayah Golden Hotel,Madinah,122,Quadruple Room,4,6.9,Very good,1206,1,7.095064377287130,4.804021044733260,40
+Qasr Al Nabarees ApartHotel,Jeddah,124,One-Bedroom Apartment,2,5.1,Very good,167,1,5.117993812416760,4.820281565605040,28
+القصر للاجنحة الفندقية 7 الواديين,Khamis Mushayt,360,Junior Suite,2,8.7,Fabulous,100,1,4.605170185988090,5.886104031450160,28
+Midan Hotel,Makkah,189,Double Room,1,8.6,Fabulous,3508,1,8.162801353492070,5.241747015059640,35
+Taraf Al Asalah Villas,Asir,200,One-Bedroom Villa,1,7.4,Good,125,1,4.8283137373023000,5.298317366548040,29
+Lavana Furnished Apartments Salam,Jeddah,161,Studio,1,7.9,Good,796,1,6.679599185844380,5.081404364984460,35
+Bay La Sun Hotel and Marina - KAEC,King Abdullah Economic City,1074,Deluxe Double Room with City View,1,8.2,Good,9054,1,9.110961927995900,6.97914527506881,30
+Vision of Onaizah Furnished Units,Unayzah,153,Twin Room,2,8.2,Good,829,1,6.720220155135300,5.030437921392440,37
+فندق لافندر,Taif,499,Deluxe Suite,1,8.3,Good,632,1,6.448889394146860,6.212606095751520,28
+Dar Al Naem Hotel,Madinah,150,Standard Twin Room,2,6.4,Very good,1371,1,7.223295679562310,5.0106352940962600,40
+Marriott Executive Apartments Madinah,Madinah,850,"Studio Apartment, 1 King, Sofa bed, Garden view",2,9.0,Superb,895,1,6.796823718274860,6.745236349484360,28
+Mnazel Jawraq,Riyadh,2250,Villa with Private Pool,4,8.8,Fabulous,58,1,4.060443010546420,7.718685495198470,28
+شاليهات ويڤ Wave Resorts,Al Khobar,3750,Chalet,4,7.9,Good,39,1,3.6635616461296500,8.229511118964460,35
+Villa Al Nakhil,King Abdullah Economic City,1764,Three-Bedroom Villa,5,0.0,Very good,0,1,-inf,7.475339236566740,29
+دار الود للأجنحة الفندقية,Jeddah,217,Studio,1,8.2,Good,336,1,5.817111159963200,5.37989735354046,35
+Alreef Diamond Villas,Taif,1500,Standard Villa,13,9.0,Superb,101,1,4.61512051684126,7.313220387090300,30
+Rolana Furnished Apartments,Jeddah,189,Deluxe Studio,1,7.5,Good,40,1,3.6888794541139400,5.241747015059640,37
+Saray Chalet at Amwaj Resort شاليه ساراي في منتجع أمواج للعائلات فقط,Al Khobar,4079,Four-Bedroom House,7,8.3,Good,12,1,2.4849066497880000,8.313607139317560,28
+Shams W Qamar Chalets,Taif,1170,One-Bedroom Chalet,5,8.5,Good,20,1,2.995732273553990,7.064759027791800,40
+فندق حياة تاون,Umm Lajj,629,Deluxe Suite,2,7.3,Good,8,1,2.0794415416798400,6.444131256700440,28
+Luqya Hotel Suites,Jeddah ,140,Studio Apartment,1,7.6,Good,97,1,4.574710978503380,4.941642422609300,28
+Kadi Hotel,Najran,177,One-Bedroom Suite,2,7.8,Good,44,1,3.784189633918260,5.176149732573830,35
+فلل المدينة العاليةVIP,Abha,3200,Two-Bedroom Villa,3,0.0,Very good,0,1,-inf,8.070906088787820,29
+Tanuma Aram Hospitality - Hotel Apartments,Tanomah,247,Studio with Mountain View,1,8.2,Good,1005,1,6.912742820493180,5.5093883366279800,35
+Al Farhan Dumah Al Jandal,Dawmat al Jandal,179,Deluxe Apartment,2,8.2,Good,105,1,4.653960350157520,5.187385805840760,30
+Al Meshan Hotel,Madinah,120,Double or Twin Room with Bathroom,1,6.8,Very good,55,1,4.007333185232470,4.787491742782050,37
+فندق الكامل,Makkah,250,Double or Twin Room,1,8.6,Fabulous,52,1,3.9512437185814300,5.521460917862250,28
+فندق بلانتي,Makkah,136,Basic Triple Room,3,8.0,Good,85,1,4.442651256490320,4.912654885736050,55
+فندق برج الإبريز,Baish,238,King Room,1,7.7,Good,186,1,5.225746673713200,5.472270673671480,28
+Raoum Inn Shaqra,Shaqra,150,Superior Double Room,1,6.6,Very good,188,1,5.236441962829950,5.0106352940962600,28
+Al Lord Hotel,Hafr Al Baten,200,Studio Apartment,1,7.6,Good,89,1,4.48863636973214,5.298317366548040,35
+Asfar Hotel Suites,Shaqra  ,241,Standard Suite,1,8.9,Fabulous,214,1,5.365976015021850,5.484796933490660,29
+Khabti Grand Hotel,Bishah,400,Budget Double Room,1,8.3,Good,1310,1,7.177782416195200,5.991464547107980,35
+Golden Sea Hotel,Obhor ,340,Junior Suite,1,8.2,Good,172,1,5.147494476813450,5.8289456176102100,30
+Desert Rose Motel,Al Ghat,150,Family Room with Private Bathroom,1,0.0,Very good,0,1,-inf,5.0106352940962600,37
+Golden Dune Hotel,Turayf,250,Small Double Room,1,9.0,Superb,1735,1,7.45876269238096,5.521460917862250,28
+قصر البالود 2,Riyadh,127,Budget Double Room,1,8.9,Fabulous,228,1,5.429345628954440,4.844187086458590,30
+العييري للوحدات المفروشة الباحة3,Buraydah,110,Double Room with Private Bathroom,2,3.7,Very good,72,1,4.276666119016060,4.700480365792420,44
