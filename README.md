@@ -1,6 +1,6 @@
 # Booking.com Price Prediction in KSA Project 
 
-* Project
+* Project (T5)
 
 In order to predict hotel room pricing in the major cities of Saudi Arabia. This project went through the process of building a tool for the ministry of tourism to predict the accommodation prices in riyals given the number of beds, the rating score and number of reviews. 
 
@@ -105,3 +105,10 @@ Pycaret, Yellowbrick, SHAPE.
 Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) _done_
 
 
+# Contributors
+------------
+# Team Memebers 
+
+* [Abdultawwab Safarji](https://github.com/A-safarji)
+* [jennansowayan](https://github.com/jennansowayan)  
+* [entaim](https://github.com/entaim)  
